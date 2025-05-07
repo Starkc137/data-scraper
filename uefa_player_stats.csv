@@ -1,0 +1,1105 @@
+﻿name,nation,position,age,matches_played,minutes_played,goals,assists,penalties_scored,yellow_cards,red_cards,team_name
+Willian Pacho,Ecuador,DEFENDER,23,15.0,1362.0,0.0,0.0,0.0,0.0,0.0,Paris
+Achraf Hakimi,Morocco,DEFENDER,26,15.0,1360.0,2.0,5.0,0.0,2.0,0.0,Paris
+Nuno Mendes,Portugal,DEFENDER,22,14.0,1283.0,4.0,2.0,0.0,3.0,0.0,Paris
+Vitinha,Portugal,MIDFIELDER,25,15.0,1268.0,2.0,1.0,1.0,0.0,0.0,Paris
+João Neves,Portugal,MIDFIELDER,20,15.0,1261.0,1.0,1.0,0.0,2.0,0.0,Paris
+Joshua Kimmich,Germany,MIDFIELDER,30,14.0,1260.0,0.0,6.0,0.0,1.0,0.0,Bayern München
+Marquinhos,Brazil,DEFENDER,30,14.0,1259.0,0.0,0.0,0.0,3.0,0.0,Paris
+Federico Valverde,Uruguay,MIDFIELDER,26,14.0,1236.0,0.0,3.0,0.0,1.0,0.0,Real Madrid
+Gianluigi Donnarumma,Italy,GOALKEEPER,26,13.0,1200.0,0.0,0.0,0.0,0.0,0.0,Paris
+Antonio Rüdiger,Germany,DEFENDER,32,13.0,1188.0,2.0,0.0,0.0,3.0,0.0,Real Madrid
+Gregor Kobel,Switzerland,GOALKEEPER,27,13.0,1170.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Jude Bellingham,England,MIDFIELDER,21,13.0,1136.0,3.0,2.0,0.0,3.0,0.0,Real Madrid
+Kylian Mbappé,France,FORWARD,26,14.0,1132.0,7.0,2.0,0.0,1.0,0.0,Real Madrid
+Harry Kane,England,FORWARD,31,13.0,1120.0,11.0,2.0,4.0,1.0,0.0,Bayern München
+Thibaut Courtois,Belgium,GOALKEEPER,32,12.0,1110.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Jules Koundé,France,DEFENDER,26,13.0,1106.0,0.0,3.0,0.0,1.0,0.0,Barcelona
+Raphinha,Brazil,FORWARD,28,13.0,1105.0,12.0,9.0,0.0,0.0,0.0,Barcelona
+Vinícius Júnior,Brazil,FORWARD,24,12.0,1104.0,8.0,3.0,1.0,4.0,0.0,Real Madrid
+Serhou Guirassy,Rep of Guinea,FORWARD,29,14.0,1084.0,13.0,4.0,5.0,2.0,0.0,B. Dortmund
+Hans Vanaken,Belgium,MIDFIELDER,32,12.0,1080.0,1.0,1.0,1.0,1.0,0.0,Club Brugge
+David Hancko,Slovakia,DEFENDER,27,12.0,1080.0,1.0,1.0,0.0,1.0,0.0,Feyenoord
+Nicolas Otamendi,Argentina,DEFENDER,37,12.0,1080.0,1.0,0.0,0.0,2.0,0.0,Benfica
+Nico Schlotterbeck,Germany,DEFENDER,25,12.0,1080.0,0.0,1.0,0.0,0.0,0.0,B. Dortmund
+David Raya,Spain,GOALKEEPER,29,12.0,1080.0,0.0,0.0,0.0,2.0,0.0,Arsenal
+Simon Mignolet,Belgium,GOALKEEPER,37,12.0,1080.0,0.0,0.0,0.0,1.0,0.0,Club Brugge
+Brandon Mechele,Belgium,DEFENDER,32,12.0,1080.0,0.0,0.0,0.0,1.0,0.0,Club Brugge
+Yann Sommer,Switzerland,GOALKEEPER,36,12.0,1080.0,0.0,0.0,0.0,0.0,0.0,Inter
+Anatoliy Trubin,Ukraine,GOALKEEPER,23,12.0,1080.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Emiliano Martínez,Argentina,GOALKEEPER,32,12.0,1080.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Maxim De Cuyper,Belgium,MIDFIELDER,24,12.0,1079.0,1.0,0.0,0.0,1.0,0.0,Club Brugge
+Minjae Kim,Korea Republic,DEFENDER,28,13.0,1074.0,1.0,0.0,0.0,2.0,0.0,Bayern München
+Ousmane Dembélé,France,FORWARD,27,13.0,1052.0,8.0,3.0,0.0,2.0,1.0,Paris
+Joel Ordoñez,Ecuador,DEFENDER,21,12.0,1048.0,0.0,0.0,0.0,1.0,0.0,Club Brugge
+Youri Tielemans,Belgium,MIDFIELDER,27,12.0,1046.0,2.0,3.0,0.0,1.0,0.0,Aston Villa
+Michael Olise,France,MIDFIELDER,23,14.0,1033.0,5.0,1.0,1.0,1.0,0.0,Bayern München
+Morgan Rogers,England,FORWARD,22,12.0,1025.0,4.0,3.0,0.0,1.0,0.0,Aston Villa
+Walter Benítez,Argentina,GOALKEEPER,32,11.0,1020.0,0.0,0.0,0.0,1.0,0.0,PSV
+Pedri,Spain,MIDFIELDER,22,13.0,1012.0,0.0,2.0,0.0,0.0,0.0,Barcelona
+Bradley Barcola,France,FORWARD,22,15.0,1002.0,3.0,3.0,0.0,1.0,0.0,Paris
+Orkun Kökçü,Türkiye,MIDFIELDER,24,12.0,995.0,4.0,0.0,1.0,2.0,0.0,Benfica
+Fredrik Aursnes,Norway,MIDFIELDER,29,12.0,990.0,0.0,1.0,0.0,2.0,0.0,Benfica
+Ezri Konsa,England,DEFENDER,27,11.0,990.0,1.0,0.0,0.0,1.0,0.0,Aston Villa
+Dayot Upamecano,France,DEFENDER,26,11.0,990.0,0.0,1.0,0.0,1.0,0.0,Bayern München
+Lamine Yamal,Spain,FORWARD,17,12.0,981.0,5.0,3.0,0.0,0.0,0.0,Barcelona
+Fabian Ruiz,Spain,MIDFIELDER,29,15.0,977.0,0.0,4.0,0.0,2.0,0.0,Paris
+Julian Ryerson,Norway,DEFENDER,27,12.0,956.0,0.0,0.0,0.0,2.0,0.0,B. Dortmund
+Timon Wellenreuther,Germany,GOALKEEPER,29,11.0,955.0,0.0,0.0,0.0,1.0,0.0,Feyenoord
+Robert Lewandowski,Poland,FORWARD,36,12.0,954.0,11.0,0.0,3.0,0.0,0.0,Barcelona
+Ardon Jashari,Switzerland,MIDFIELDER,22,11.0,951.0,0.0,0.0,0.0,1.0,0.0,Club Brugge
+Emre Can,Germany,DEFENDER,31,12.0,940.0,2.0,1.0,2.0,1.0,0.0,B. Dortmund
+Christos Tzolis,Greece,FORWARD,23,12.0,939.0,1.0,4.0,0.0,2.0,0.0,Club Brugge
+Raphael Onyedika,Nigeria,MIDFIELDER,24,11.0,939.0,1.0,1.0,0.0,2.0,1.0,Club Brugge
+Jan Oblak,Slovenia,GOALKEEPER,32,10.0,930.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Tomas Araújo,Portugal,DEFENDER,22,11.0,927.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Igor Paixão,Brazil,FORWARD,24,11.0,921.0,2.0,4.0,0.0,0.0,0.0,Feyenoord
+Pascal Gross,Germany,MIDFIELDER,33,13.0,918.0,1.0,2.0,0.0,3.0,0.0,B. Dortmund
+Declan Rice,England,MIDFIELDER,26,12.0,915.0,4.0,2.0,0.0,2.0,0.0,Arsenal
+Olivier Boscagli,France,DEFENDER,27,11.0,913.0,0.0,0.0,0.0,1.0,0.0,PSV
+Vangelis Pavlidis,Greece,FORWARD,26,12.0,905.0,7.0,2.0,2.0,1.0,0.0,Benfica
+Luuk de Jong,Netherlands,FORWARD,34,12.0,905.0,2.0,1.0,0.0,2.0,0.0,PSV
+Alvaro Carreras,Spain,DEFENDER,22,10.0,900.0,0.0,2.0,0.0,5.0,0.0,Benfica
+Alexsandro,Brazil,DEFENDER,25,10.0,900.0,0.0,1.0,0.0,1.0,0.0,Lille
+Jonathan Tah,Germany,DEFENDER,29,10.0,900.0,0.0,0.0,0.0,2.0,0.0,Leverkusen
+Kasper Schmeichel,Denmark,GOALKEEPER,38,10.0,900.0,0.0,0.0,0.0,1.0,0.0,Celtic
+Lucas Chevalier,France,GOALKEEPER,23,10.0,900.0,0.0,0.0,0.0,1.0,0.0,Lille
+William Saliba,France,DEFENDER,24,10.0,900.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Callum McGregor,Scotland,MIDFIELDER,31,10.0,900.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Ferland Mendy,France,DEFENDER,29,11.0,888.0,0.0,1.0,0.0,1.0,0.0,Real Madrid
+Julian Brandt,Germany,MIDFIELDER,29,13.0,884.0,0.0,4.0,0.0,0.0,0.0,B. Dortmund
+Iñigo Martínez,Spain,DEFENDER,33,10.0,882.0,2.0,1.0,0.0,2.0,0.0,Barcelona
+Rodrygo,Brazil,FORWARD,24,12.0,880.0,5.0,2.0,0.0,0.0,0.0,Real Madrid
+Pau Cubarsí,Spain,DEFENDER,18,12.0,876.0,0.0,1.0,0.0,2.0,1.0,Barcelona
+Marten de Roon,Netherlands,MIDFIELDER,34,10.0,874.0,0.0,1.0,0.0,2.0,0.0,Atalanta
+Alejandro Grimaldo,Spain,DEFENDER,29,10.0,871.0,2.0,2.0,0.0,0.0,0.0,Leverkusen
+Tijjani Reijnders,Netherlands,MIDFIELDER,26,10.0,870.0,3.0,0.0,0.0,0.0,0.0,Milan
+Alessandro Bastoni,Italy,DEFENDER,26,12.0,868.0,0.0,1.0,0.0,2.0,0.0,Inter
+Jamal Musiala,Germany,MIDFIELDER,22,12.0,866.0,3.0,4.0,0.0,1.0,0.0,Bayern München
+Gabriel Martinelli,Brazil,FORWARD,23,12.0,866.0,2.0,2.0,0.0,2.0,0.0,Arsenal
+Theo Hernandez,France,DEFENDER,27,10.0,861.0,0.0,0.0,0.0,4.0,1.0,Milan
+Mike Maignan,France,GOALKEEPER,29,10.0,861.0,0.0,0.0,0.0,1.0,0.0,Milan
+Johan Bakayoko,Belgium,FORWARD,22,12.0,860.0,2.0,1.0,0.0,1.0,0.0,PSV
+Ryan Flamingo,Netherlands,DEFENDER,22,11.0,858.0,3.0,0.0,0.0,0.0,1.0,PSV
+Ferran Jutglà,Spain,FORWARD,26,12.0,857.0,2.0,2.0,0.0,0.0,0.0,Club Brugge
+Benjamin Pavard,France,DEFENDER,29,11.0,855.0,1.0,0.0,0.0,2.0,0.0,Inter
+Thilo Kehrer,Germany,DEFENDER,28,10.0,855.0,1.0,2.0,0.0,2.0,0.0,Monaco
+Bafodé Diakité,France,DEFENDER,24,10.0,855.0,0.0,0.0,0.0,1.0,0.0,Lille
+Kerem Aktürkoğlu,Türkiye,FORWARD,26,12.0,853.0,4.0,0.0,0.0,1.0,0.0,Benfica
+Jamie Gittens,England,MIDFIELDER,20,14.0,848.0,4.0,0.0,0.0,0.0,0.0,B. Dortmund
+Marcel Sabitzer,Austria,MIDFIELDER,31,11.0,845.0,0.0,0.0,0.0,2.0,0.0,B. Dortmund
+Virgil van Dijk,Netherlands,DEFENDER,33,9.0,840.0,1.0,0.0,0.0,2.0,0.0,Liverpool
+Leon Goretzka,Germany,MIDFIELDER,30,12.0,839.0,1.0,1.0,0.0,4.0,0.0,Bayern München
+Alistair Johnston,Canada,DEFENDER,26,10.0,838.0,0.0,0.0,0.0,2.0,0.0,Celtic
+Mauro Júnior,Brazil,DEFENDER,26,10.0,829.0,0.0,1.0,0.0,2.0,0.0,PSV
+Thomas Beelen,Netherlands,DEFENDER,23,12.0,827.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Manuel Neuer,Germany,GOALKEEPER,39,10.0,823.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Granit Xhaka,Switzerland,MIDFIELDER,32,10.0,819.0,0.0,0.0,0.0,3.0,0.0,Leverkusen
+Auston Trusty,USA,DEFENDER,26,10.0,816.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Joško Gvardiol,Croatia,DEFENDER,23,10.0,815.0,0.0,2.0,0.0,0.0,0.0,Man City
+Benjamin André,France,MIDFIELDER,34,9.0,810.0,0.0,0.0,0.0,3.0,0.0,Lille
+Brendan Chardonnet,France,DEFENDER,30,9.0,810.0,0.0,0.0,0.0,2.0,0.0,Brest
+Marco Carnesecchi,Italy,GOALKEEPER,24,9.0,810.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Marco Bizot,Netherlands,GOALKEEPER,34,9.0,810.0,0.0,0.0,0.0,0.0,0.0,Brest
+Thomas Partey,Ghana,MIDFIELDER,31,11.0,809.0,0.0,0.0,0.0,3.0,0.0,Arsenal
+Mohamed Salah,Egypt,FORWARD,32,9.0,808.0,3.0,4.0,1.0,0.0,0.0,Liverpool
+Maghnes Akliouche,France,MIDFIELDER,23,10.0,807.0,2.0,2.0,0.0,1.0,0.0,Monaco
+Alejandro Balde,Spain,DEFENDER,21,10.0,804.0,0.0,3.0,0.0,1.0,0.0,Barcelona
+Gabriel,Brazil,DEFENDER,27,9.0,804.0,1.0,0.0,0.0,1.0,0.0,Arsenal
+Federico Gatti,Italy,DEFENDER,26,9.0,801.0,0.0,1.0,0.0,1.0,0.0,Juventus
+Aurélien Tchouaméni,France,MIDFIELDER,25,11.0,800.0,0.0,0.0,0.0,3.0,0.0,Real Madrid
+Youssouf Fofana,France,MIDFIELDER,26,10.0,800.0,0.0,2.0,0.0,2.0,0.0,Milan
+Rafael Leão,Portugal,FORWARD,25,10.0,797.0,3.0,2.0,0.0,2.0,0.0,Milan
+Jeremie Frimpong,Netherlands,DEFENDER,24,10.0,796.0,0.0,5.0,0.0,2.0,0.0,Leverkusen
+Nicolas Kühn,Germany,MIDFIELDER,25,10.0,792.0,3.0,1.0,0.0,1.0,0.0,Celtic
+Francisco Trincão,Portugal,FORWARD,25,9.0,791.0,0.0,1.0,0.0,1.0,0.0,Sporting CP
+Julian Alvarez,Argentina,FORWARD,25,10.0,790.0,7.0,1.0,0.0,0.0,0.0,Atleti
+Reo Hatate,Japan,DEFENDER,27,10.0,788.0,1.0,2.0,0.0,1.0,0.0,Celtic
+Anis Hadj Moussa,Algeria,FORWARD,23,11.0,786.0,3.0,0.0,0.0,0.0,0.0,Feyenoord
+Nicolò Barella,Italy,MIDFIELDER,28,11.0,784.0,0.0,2.0,0.0,2.0,0.0,Inter
+Ryan Gravenberch,Netherlands,MIDFIELDER,22,9.0,784.0,0.0,0.0,0.0,1.0,0.0,Liverpool
+Konrad Laimer,Austria,MIDFIELDER,27,11.0,781.0,1.0,1.0,0.0,2.0,0.0,Bayern München
+Vanderson,Brazil,DEFENDER,23,9.0,781.0,0.0,1.0,0.0,3.0,0.0,Monaco
+Denzel Dumfries,Netherlands,DEFENDER,29,10.0,776.0,2.0,1.0,0.0,2.0,0.0,Inter
+Piero Hincapie,Ecuador,DEFENDER,23,9.0,774.0,1.0,0.0,0.0,2.0,1.0,Leverkusen
+Erling Haaland,Norway,FORWARD,24,9.0,771.0,8.0,0.0,2.0,0.0,0.0,Man City
+Jurriën Timber,Netherlands,DEFENDER,23,12.0,769.0,1.0,1.0,0.0,2.0,0.0,Arsenal
+Guus Til,Netherlands,MIDFIELDER,27,12.0,768.0,0.0,2.0,0.0,0.0,0.0,PSV
+Joaquin Seys,Belgium,DEFENDER,20,10.0,768.0,0.0,0.0,0.0,2.0,0.0,Club Brugge
+Bernardo Silva,Portugal,MIDFIELDER,30,9.0,766.0,0.0,0.0,0.0,1.0,0.0,Man City
+Florian Wirtz,Germany,MIDFIELDER,22,9.0,765.0,6.0,1.0,1.0,2.0,0.0,Leverkusen
+Antoni Milambo,Netherlands,MIDFIELDER,20,9.0,765.0,3.0,1.0,0.0,1.0,0.0,Feyenoord
+Morten Hjulmand,Denmark,MIDFIELDER,25,9.0,765.0,0.0,0.0,0.0,3.0,0.0,Sporting CP
+Daizen Maeda,Japan,FORWARD,27,9.0,761.0,4.0,1.0,0.0,1.0,1.0,Celtic
+Ousmane Diomande,Ivory Coast,DEFENDER,21,9.0,752.0,0.0,0.0,0.0,1.0,0.0,Sporting CP
+Breel Embolo,Switzerland,FORWARD,28,10.0,750.0,1.0,3.0,0.0,1.0,0.0,Monaco
+José María Giménez,Uruguay,DEFENDER,30,8.0,750.0,1.0,0.0,0.0,4.0,0.0,Atleti
+Raúl Asencio,Spain,DEFENDER,22,10.0,748.0,0.0,1.0,0.0,2.0,0.0,Real Madrid
+Rodrigo De Paul,Argentina,MIDFIELDER,30,10.0,748.0,0.0,1.0,0.0,1.0,0.0,Atleti
+Lucas Digne,France,DEFENDER,31,9.0,747.0,0.0,0.0,0.0,2.0,0.0,Aston Villa
+Jonathan David,Canada,FORWARD,25,10.0,746.0,7.0,2.0,2.0,2.0,0.0,Lille
+Marcus Thuram,France,FORWARD,27,12.0,743.0,4.0,1.0,0.0,1.0,0.0,Inter
+Ramy Bensebaini,Algeria,DEFENDER,30,12.0,743.0,2.0,1.0,0.0,4.0,0.0,B. Dortmund
+John McGinn,Scotland,MIDFIELDER,30,10.0,739.0,3.0,2.0,0.0,1.0,0.0,Aston Villa
+Éderson,Brazil,MIDFIELDER,25,9.0,739.0,1.0,0.0,0.0,4.0,0.0,Atalanta
+Antoine Griezmann,France,FORWARD,34,10.0,732.0,6.0,3.0,0.0,0.0,0.0,Atleti
+Arne Engels,Belgium,MIDFIELDER,21,10.0,729.0,1.0,3.0,1.0,0.0,0.0,Celtic
+Mikel Merino,Spain,MIDFIELDER,28,11.0,728.0,2.0,4.0,0.0,1.0,0.0,Arsenal
+Ismael Saibari,Morocco,FORWARD,24,10.0,728.0,3.0,2.0,0.0,1.0,0.0,PSV
+António Silva,Portugal,DEFENDER,21,9.0,724.0,0.0,0.0,0.0,2.0,0.0,Benfica
+Geovany Quenda,Portugal,FORWARD,18,10.0,722.0,0.0,1.0,0.0,2.0,0.0,Sporting CP
+Nasser Djiga,Burkina Faso,DEFENDER,22,8.0,720.0,1.0,1.0,0.0,1.0,0.0,Crvena Zvezda
+Timi Max Elšnik,Slovenia,MIDFIELDER,27,8.0,720.0,0.0,2.0,0.0,1.0,0.0,Crvena Zvezda
+Martin Vitík,Czechia,DEFENDER,22,8.0,720.0,0.0,0.0,0.0,2.0,0.0,Sparta Praha
+Kenny Lala,France,DEFENDER,33,8.0,720.0,0.0,0.0,0.0,1.0,0.0,Brest
+Peter Vindahl,Denmark,GOALKEEPER,27,8.0,720.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Valeriy Bondar,Ukraine,DEFENDER,26,8.0,720.0,0.0,0.0,0.0,1.0,0.0,Shakhtar
+Willi Orban,Hungary,DEFENDER,32,8.0,720.0,0.0,0.0,0.0,1.0,0.0,Leipzig
+Dominik Takac,Slovakia,GOALKEEPER,26,8.0,720.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Franco Israel,Uruguay,GOALKEEPER,25,8.0,720.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Dmytro Riznyk,Ukraine,GOALKEEPER,26,8.0,720.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+RadosLaw Majecki,Poland,GOALKEEPER,25,8.0,720.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Ederson,Brazil,GOALKEEPER,31,8.0,720.0,0.0,0.0,0.0,0.0,0.0,Man City
+Mykola Matviyenko,Ukraine,DEFENDER,29,8.0,720.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Michele Di Gregorio,Italy,GOALKEEPER,27,8.0,719.0,0.0,0.0,0.0,1.0,1.0,Juventus
+Cesar Blackman,Panama,DEFENDER,27,8.0,719.0,0.0,0.0,0.0,1.0,0.0,S. Bratislava
+Gijs Smal,Netherlands,DEFENDER,27,11.0,717.0,0.0,1.0,0.0,2.0,0.0,Feyenoord
+Florentino,Portugal,MIDFIELDER,25,9.0,717.0,0.0,0.0,0.0,3.0,0.0,Benfica
+Henrikh Mkhitaryan,Armenia,MIDFIELDER,36,11.0,715.0,0.0,1.0,0.0,2.0,0.0,Inter
+Kenan Bajrić,Slovenia,DEFENDER,30,8.0,714.0,0.0,0.0,0.0,2.0,0.0,S. Bratislava
+Kaan Kairinen,Finland,MIDFIELDER,26,8.0,713.0,2.0,0.0,0.0,1.0,0.0,Sparta Praha
+Mahdi Camara,France,MIDFIELDER,26,10.0,712.0,1.0,1.0,0.0,2.0,0.0,Brest
+Isak Hien,Sweden,DEFENDER,26,8.0,710.0,0.0,1.0,0.0,2.0,0.0,Atalanta
+Guram Kashia,Georgia,DEFENDER,37,8.0,709.0,0.0,0.0,0.0,2.0,0.0,S. Bratislava
+Martin Ødegaard,Norway,MIDFIELDER,26,10.0,708.0,3.0,1.0,0.0,0.0,0.0,Arsenal
+Maximilian Mittelstädt,Germany,DEFENDER,28,8.0,706.0,0.0,3.0,0.0,1.0,0.0,Stuttgart
+Charles De Ketelaere,Belgium,FORWARD,24,10.0,702.0,4.0,5.0,1.0,0.0,0.0,Atalanta
+Boubacar Kamara,France,DEFENDER,25,10.0,702.0,0.0,0.0,0.0,2.0,0.0,Aston Villa
+Georgiy Sudakov,Ukraine,MIDFIELDER,22,8.0,702.0,2.0,1.0,1.0,0.0,0.0,Shakhtar
+Youngwoo Seol,Korea Republic,DEFENDER,26,8.0,701.0,0.0,3.0,0.0,1.0,0.0,Crvena Zvezda
+Alphonso Davies,Canada,MIDFIELDER,24,9.0,700.0,2.0,0.0,0.0,0.0,0.0,Bayern München
+Davide Zappacosta,Italy,DEFENDER,32,9.0,699.0,0.0,5.0,0.0,0.0,0.0,Atalanta
+Ollie Watkins,England,FORWARD,29,12.0,697.0,1.0,4.0,0.0,0.0,0.0,Aston Villa
+Hugo Magnetti,France,MIDFIELDER,26,10.0,697.0,1.0,1.0,0.0,0.0,0.0,Brest
+Lautaro Martínez,Argentina,FORWARD,27,12.0,696.0,8.0,0.0,1.0,2.0,0.0,Inter
+Angelo Stiller,Germany,MIDFIELDER,24,8.0,695.0,1.0,0.0,0.0,1.0,0.0,Stuttgart
+Marcos Llorente,Spain,MIDFIELDER,30,8.0,693.0,2.0,4.0,0.0,1.0,0.0,Atleti
+Karim Adeyemi,Germany,FORWARD,23,10.0,692.0,5.0,1.0,0.0,2.0,0.0,B. Dortmund
+Enzo Millot,France,MIDFIELDER,22,8.0,690.0,2.0,4.0,0.0,0.0,0.0,Stuttgart
+Phil Foden,England,MIDFIELDER,24,9.0,689.0,3.0,1.0,0.0,0.0,0.0,Man City
+Hakan Çalhanoğlu,Türkiye,MIDFIELDER,31,10.0,686.0,3.0,2.0,2.0,2.0,0.0,Inter
+Noa Lang,Netherlands,FORWARD,25,10.0,686.0,2.0,2.0,1.0,1.0,0.0,PSV
+Frenkie de Jong,Netherlands,MIDFIELDER,27,12.0,683.0,0.0,0.0,0.0,2.0,0.0,Barcelona
+Loïs Openda,Belgium,FORWARD,25,8.0,683.0,1.0,3.0,0.0,1.0,0.0,Leipzig
+Jakub Kiwior,Poland,DEFENDER,25,9.0,682.0,0.0,0.0,0.0,1.0,0.0,Arsenal
+Oscar Gloukh,Israel,MIDFIELDER,21,8.0,681.0,0.0,2.0,0.0,1.0,0.0,Salzburg
+Berat Djimsiti,Albania,DEFENDER,32,9.0,678.0,1.0,0.0,0.0,1.0,0.0,Atalanta
+Pau Torres,Spain,DEFENDER,28,9.0,678.0,0.0,1.0,0.0,1.0,0.0,Aston Villa
+Stefan De Vrij,Netherlands,DEFENDER,33,8.0,676.0,0.0,0.0,0.0,1.0,0.0,Inter
+David Strelec,Slovakia,FORWARD,24,8.0,674.0,2.0,0.0,1.0,0.0,0.0,S. Bratislava
+Alexis Mac Allister,Argentina,MIDFIELDER,26,8.0,674.0,2.0,0.0,0.0,5.0,0.0,Liverpool
+Manuel Locatelli,Italy,MIDFIELDER,27,9.0,673.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Bukayo Saka,England,FORWARD,23,8.0,673.0,5.0,2.0,1.0,1.0,0.0,Arsenal
+Dmytro Kryskiv,Ukraine,MIDFIELDER,24,8.0,673.0,0.0,0.0,0.0,2.0,0.0,Shakhtar
+Edmond Tapsoba,Burkina Faso,DEFENDER,26,9.0,670.0,0.0,1.0,0.0,1.0,0.0,Leverkusen
+William Bøving,Denmark,MIDFIELDER,22,8.0,669.0,0.0,2.0,0.0,0.0,0.0,Sturm Graz
+Kenan Yıldız,Türkiye,FORWARD,20,10.0,668.0,1.0,1.0,0.0,1.0,0.0,Juventus
+Rade Krunić,Bosnia and Herzegovina,MIDFIELDER,31,8.0,668.0,1.0,2.0,0.0,2.0,0.0,Crvena Zvezda
+Mehdi Taremi,Iran,FORWARD,32,11.0,666.0,1.0,2.0,1.0,0.0,0.0,Inter
+Exequiel Palacios,Argentina,MIDFIELDER,26,10.0,666.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Gernot Trauner,Austria,DEFENDER,33,9.0,659.0,1.0,1.0,0.0,2.0,0.0,Feyenoord
+Teun Koopmeiners,Netherlands,MIDFIELDER,27,9.0,655.0,0.0,0.0,0.0,2.0,0.0,Juventus
+Edimilson Fernandes,Switzerland,MIDFIELDER,29,10.0,651.0,1.0,0.0,0.0,0.0,0.0,Brest
+Stefan Ristovski,North Macedonia,DEFENDER,33,8.0,650.0,0.0,2.0,0.0,2.0,0.0,GNK Dinamo
+Ibrahima Konaté,France,DEFENDER,25,7.0,649.0,1.0,0.0,0.0,2.0,0.0,Liverpool
+Luka Modrić,Croatia,MIDFIELDER,39,14.0,647.0,0.0,2.0,0.0,2.0,0.0,Real Madrid
+Sam Beukema,Netherlands,DEFENDER,26,8.0,647.0,0.0,1.0,0.0,3.0,0.0,Bologna
+Manuel Akanji,Switzerland,DEFENDER,29,8.0,646.0,0.0,1.0,0.0,0.0,0.0,Man City
+Pierre Kalulu,France,DEFENDER,24,8.0,646.0,0.0,0.0,0.0,1.0,0.0,Juventus
+Jeff Chabot,Germany,DEFENDER,27,8.0,646.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Leandro Trossard,Belgium,MIDFIELDER,30,13.0,644.0,2.0,3.0,0.0,1.0,0.0,Arsenal
+Ludovic Ajorque,France,FORWARD,31,8.0,643.0,0.0,3.0,0.0,3.0,0.0,Brest
+Sead Kolašinac,Bosnia and Herzegovina,DEFENDER,31,9.0,639.0,1.0,1.0,0.0,2.0,0.0,Atalanta
+Rico Lewis,England,DEFENDER,20,9.0,639.0,0.0,1.0,0.0,0.0,0.0,Man City
+Dominik Szoboszlai,Hungary,MIDFIELDER,24,9.0,637.0,1.0,1.0,0.0,0.0,0.0,Liverpool
+Soumaïla Coulibaly,France,DEFENDER,21,8.0,635.0,0.0,0.0,0.0,0.0,0.0,Brest
+Leroy Sané,Germany,MIDFIELDER,29,13.0,634.0,1.0,0.0,0.0,2.0,0.0,Bayern München
+Luis Díaz,Colombia,FORWARD,28,9.0,633.0,3.0,0.0,0.0,1.0,0.0,Liverpool
+Christian Pulišić,USA,FORWARD,26,9.0,632.0,4.0,1.0,0.0,1.0,0.0,Milan
+Marc Casadó,Spain,MIDFIELDER,21,10.0,631.0,0.0,2.0,0.0,1.0,0.0,Barcelona
+Amar Dedić,Bosnia and Herzegovina,DEFENDER,22,7.0,630.0,0.0,1.0,0.0,1.0,0.0,Salzburg
+Paulo Gazzaniga,Argentina,GOALKEEPER,33,7.0,630.0,0.0,0.0,0.0,2.0,0.0,Girona
+Ladislav Krejcí,Czechia,DEFENDER,26,7.0,630.0,0.0,0.0,0.0,1.0,0.0,Girona
+Clément Lenglet,France,DEFENDER,29,7.0,630.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Uroš Spajić,Serbia,DEFENDER,32,7.0,630.0,0.0,0.0,0.0,1.0,0.0,Crvena Zvezda
+Alexander Nübel,Germany,GOALKEEPER,28,7.0,630.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Lukasz Skorupski,Poland,GOALKEEPER,34,7.0,630.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Kévin Théophile-Catherine,France,DEFENDER,35,7.0,630.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Wojciech Szczęsny,Poland,GOALKEEPER,35,7.0,630.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Maximiliano Araújo,Uruguay,MIDFIELDER,25,10.0,627.0,1.0,2.0,0.0,2.0,0.0,Sporting CP
+Joel Monteiro,Switzerland,FORWARD,25,8.0,627.0,0.0,0.0,0.0,2.0,0.0,Young Boys
+Dimitri Lavalée,Belgium,DEFENDER,28,7.0,627.0,0.0,0.0,0.0,3.0,1.0,Sturm Graz
+Martin Baturina,Croatia,MIDFIELDER,22,8.0,625.0,2.0,1.0,0.0,2.0,0.0,GNK Dinamo
+Silas,DR Congo,FORWARD,26,8.0,624.0,2.0,0.0,0.0,1.0,0.0,Crvena Zvezda
+Ayyoub Bouaddi,France,MIDFIELDER,17,9.0,622.0,0.0,1.0,0.0,1.0,0.0,Lille
+Anthony Rouault,France,DEFENDER,23,7.0,622.0,0.0,0.0,0.0,3.0,0.0,Stuttgart
+Malick Yalcouye,Mali,MIDFIELDER,19,8.0,621.0,0.0,0.0,0.0,2.0,0.0,Sturm Graz
+Lutsharel Geertruida,Netherlands,DEFENDER,24,8.0,621.0,0.0,0.0,0.0,1.0,0.0,Leipzig
+Yann Bisseck,Germany,DEFENDER,24,11.0,619.0,0.0,0.0,0.0,0.0,0.0,Inter
+Felix Nmecha,Germany,MIDFIELDER,24,9.0,619.0,1.0,1.0,0.0,2.0,0.0,B. Dortmund
+Dan Ndoye,Switzerland,FORWARD,24,8.0,619.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Maximilian Beier,Germany,FORWARD,22,12.0,617.0,1.0,0.0,0.0,2.0,0.0,B. Dortmund
+Thomas Meunier,Belgium,DEFENDER,33,9.0,617.0,0.0,1.0,0.0,3.0,0.0,Lille
+Stefan Posch,Austria,DEFENDER,27,8.0,617.0,0.0,0.0,0.0,2.0,0.0,Atalanta
+Samson Baidoo,Austria,DEFENDER,21,7.0,617.0,0.0,0.0,0.0,1.0,0.0,Salzburg
+Massadio Haïdara,Mali,DEFENDER,32,8.0,616.0,0.0,0.0,0.0,2.0,0.0,Brest
+Otar Kiteishvili,Georgia,MIDFIELDER,29,7.0,616.0,1.0,0.0,0.0,0.0,0.0,Sturm Graz
+Denis Zakaria,Switzerland,MIDFIELDER,28,7.0,614.0,1.0,0.0,1.0,3.0,0.0,Monaco
+Lamine Camara,Senegal,MIDFIELDER,21,9.0,610.0,0.0,0.0,0.0,2.0,0.0,Monaco
+Cameron Carter-Vickers,USA,DEFENDER,27,7.0,609.0,0.0,0.0,0.0,1.0,0.0,Celtic
+Tochi Chukwuani,Denmark,MIDFIELDER,22,7.0,607.0,0.0,1.0,0.0,2.0,0.0,Sturm Graz
+Mario Pašalić,Croatia,MIDFIELDER,30,10.0,606.0,3.0,0.0,0.0,1.0,0.0,Atalanta
+Francisco Conceição,Portugal,FORWARD,22,9.0,606.0,1.0,1.0,0.0,2.0,0.0,Juventus
+Viktor Gyökeres,Sweden,FORWARD,26,8.0,606.0,6.0,0.0,2.0,1.0,0.0,Sporting CP
+Qazim Laçi,Albania,MIDFIELDER,29,8.0,605.0,1.0,0.0,0.0,0.0,0.0,Sparta Praha
+Kyriakos Savvidis,Greece,MIDFIELDER,29,8.0,604.0,0.0,1.0,0.0,2.0,0.0,S. Bratislava
+Désiré Doué,France,FORWARD,19,14.0,601.0,3.0,4.0,0.0,0.0,0.0,Paris
+Warren Zaïre-Emery,France,MIDFIELDER,19,12.0,599.0,1.0,0.0,0.0,0.0,0.0,Paris
+Filip Ugrinic,Switzerland,MIDFIELDER,26,7.0,598.0,0.0,1.0,0.0,3.0,0.0,Young Boys
+Quinten Timber,Netherlands,MIDFIELDER,23,7.0,597.0,0.0,2.0,0.0,1.0,0.0,Feyenoord
+Amadou Haidara,Mali,MIDFIELDER,27,8.0,593.0,0.0,0.0,0.0,1.0,0.0,Leipzig
+Waldemar Anton,Germany,DEFENDER,28,10.0,591.0,0.0,0.0,0.0,1.0,0.0,B. Dortmund
+Savinho,Brazil,MIDFIELDER,21,9.0,578.0,1.0,1.0,0.0,1.0,0.0,Man City
+Aleksandr Golovin,Russia,MIDFIELDER,28,9.0,577.0,0.0,1.0,0.0,1.0,0.0,Monaco
+Trent Alexander-Arnold,England,DEFENDER,26,8.0,577.0,0.0,1.0,0.0,0.0,0.0,Liverpool
+Richard Ledezma,USA,MIDFIELDER,24,11.0,576.0,0.0,0.0,0.0,1.0,0.0,PSV
+Greg Taylor,Scotland,DEFENDER,27,8.0,576.0,0.0,1.0,0.0,1.0,0.0,Celtic
+Mateo Retegui,Italy,FORWARD,26,10.0,575.0,3.0,0.0,0.0,0.0,0.0,Atalanta
+Lucas Vazquez,Spain,MIDFIELDER,33,10.0,575.0,1.0,1.0,0.0,4.0,0.0,Real Madrid
+Cherif Ndiaye,Senegal,FORWARD,29,8.0,572.0,2.0,1.0,1.0,2.0,0.0,Crvena Zvezda
+Giuliano Simeone,Argentina,FORWARD,22,9.0,571.0,1.0,2.0,0.0,2.0,0.0,Atleti
+Alisson Becker,Brazil,GOALKEEPER,32,6.0,570.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Carlos Augusto,Brazil,DEFENDER,26,11.0,569.0,0.0,2.0,0.0,1.0,0.0,Inter
+Takumi Minamino,Japan,MIDFIELDER,30,9.0,569.0,3.0,1.0,0.0,0.0,0.0,Monaco
+Inbeom Hwang,Korea Republic,MIDFIELDER,28,7.0,569.0,0.0,0.0,0.0,1.0,0.0,Feyenoord
+Zeno Debast,Belgium,DEFENDER,21,8.0,568.0,1.0,1.0,0.0,2.0,0.0,Sporting CP
+Ngal'Ayel Mukau,Belgium,MIDFIELDER,20,8.0,567.0,2.0,0.0,0.0,2.0,0.0,Lille
+Jerdy Schouten,Netherlands,MIDFIELDER,28,7.0,567.0,1.0,0.0,0.0,1.0,0.0,PSV
+Fikayo Tomori,England,DEFENDER,27,7.0,565.0,0.0,1.0,0.0,3.0,0.0,Milan
+Andrea Cambiaso,Italy,DEFENDER,25,7.0,564.0,0.0,1.0,0.0,0.0,0.0,Juventus
+Filip Panak,Czechia,DEFENDER,29,7.0,562.0,0.0,1.0,0.0,0.0,0.0,Sparta Praha
+Khvicha Kvaratskhelia,Georgia,FORWARD,24,7.0,561.0,2.0,2.0,0.0,0.0,0.0,Paris
+Kai Havertz,Germany,MIDFIELDER,25,8.0,560.0,4.0,1.0,0.0,0.0,0.0,Arsenal
+Francesco Acerbi,Italy,DEFENDER,37,7.0,560.0,0.0,1.0,0.0,0.0,0.0,Inter
+Weston McKennie,USA,MIDFIELDER,26,9.0,556.0,3.0,0.0,0.0,0.0,0.0,Juventus
+Timothy Weah,USA,FORWARD,25,9.0,556.0,1.0,1.0,0.0,1.0,0.0,Juventus
+Mika Biereth,Denmark,FORWARD,22,8.0,555.0,2.0,0.0,0.0,0.0,0.0,Monaco
+Atakan Karazor,Türkiye,MIDFIELDER,28,7.0,555.0,0.0,0.0,0.0,1.0,0.0,Stuttgart
+Tigran Barseghyan,Armenia,MIDFIELDER,31,8.0,553.0,1.0,2.0,0.0,2.0,0.0,S. Bratislava
+Chemsdine Talbi,Belgium,MIDFIELDER,19,11.0,551.0,2.0,1.0,0.0,0.0,0.0,Club Brugge
+Andy Robertson,Scotland,DEFENDER,31,8.0,551.0,0.0,1.0,0.0,2.0,0.0,Liverpool
+Dušan Vlahović,Serbia,FORWARD,25,9.0,550.0,4.0,1.0,1.0,1.0,0.0,Juventus
+Serge Gnabry,Germany,FORWARD,29,12.0,549.0,0.0,3.0,0.0,2.0,0.0,Bayern München
+angel Di María,Argentina,FORWARD,37,9.0,547.0,1.0,2.0,1.0,0.0,0.0,Benfica
+Hugo Bueno,Spain,DEFENDER,22,9.0,546.0,0.0,1.0,0.0,1.0,0.0,Feyenoord
+Piotr Zieliński,Poland,MIDFIELDER,30,9.0,546.0,0.0,1.0,0.0,0.0,0.0,Inter
+Joey Veerman,Netherlands,MIDFIELDER,26,8.0,545.0,0.0,3.0,0.0,2.0,0.0,PSV
+Josha Vagnoman,Germany,DEFENDER,24,7.0,545.0,1.0,1.0,0.0,0.0,0.0,Stuttgart
+Eliesse Ben Seghir,Morocco,MIDFIELDER,20,10.0,544.0,2.0,0.0,0.0,1.0,0.0,Monaco
+Strahinja Pavlović,Serbia,DEFENDER,23,7.0,541.0,0.0,0.0,0.0,0.0,0.0,Milan
+Miguel Gutiérrez,Spain,DEFENDER,23,6.0,540.0,1.0,0.0,0.0,0.0,0.0,Girona
+Raúl Torrente,Spain,DEFENDER,23,6.0,540.0,0.0,0.0,0.0,1.0,0.0,GNK Dinamo
+Emanuel Aiwu,Austria,DEFENDER,24,6.0,540.0,0.0,0.0,0.0,1.0,0.0,Sturm Graz
+Kjell Scherpen,Netherlands,GOALKEEPER,25,6.0,540.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Matěj Kovař,Czechia,GOALKEEPER,24,6.0,540.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Péter Gulacsi,Hungary,GOALKEEPER,35,6.0,540.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Oleksandr Zubkov,Ukraine,MIDFIELDER,28,8.0,537.0,2.0,1.0,0.0,0.0,0.0,Shakhtar
+Ronaël Pierre-Gabriel,France,DEFENDER,26,8.0,536.0,0.0,1.0,0.0,0.0,0.0,GNK Dinamo
+Malik Tillman,USA,MIDFIELDER,22,6.0,534.0,3.0,2.0,0.0,3.0,0.0,PSV
+Leon Bailey,Jamaica,FORWARD,27,8.0,531.0,1.0,1.0,0.0,1.0,0.0,Aston Villa
+Matheus Nunes,Portugal,MIDFIELDER,26,7.0,531.0,1.0,3.0,1.0,1.0,0.0,Man City
+Jhon Lucumi,Colombia,DEFENDER,26,7.0,531.0,1.0,0.0,0.0,2.0,0.0,Bologna
+Raphaël Guerreiro,Portugal,DEFENDER,31,9.0,525.0,1.0,0.0,0.0,0.0,0.0,Bayern München
+Matěj Ryneš,Czechia,DEFENDER,23,7.0,525.0,0.0,1.0,0.0,1.0,0.0,Sparta Praha
+İlkay Gündoğan,Germany,MIDFIELDER,34,10.0,524.0,2.0,0.0,0.0,1.0,0.0,Man City
+Benjamin Šeško,Slovenia,FORWARD,21,8.0,522.0,4.0,0.0,1.0,1.0,0.0,Leipzig
+Antonio Nusa,Norway,MIDFIELDER,20,8.0,518.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Sandro Lauper,Switzerland,MIDFIELDER,28,7.0,518.0,0.0,0.0,0.0,1.0,0.0,Young Boys
+Matty Cash,Poland,DEFENDER,27,8.0,515.0,0.0,0.0,0.0,1.0,0.0,Aston Villa
+Nicolas Capaldo,Argentina,MIDFIELDER,26,8.0,514.0,0.0,0.0,0.0,3.0,0.0,Salzburg
+Abdallah Sima,Senegal,FORWARD,23,9.0,509.0,3.0,0.0,0.0,1.0,0.0,Brest
+Wilfried Singo,Ivory Coast,DEFENDER,24,6.0,508.0,2.0,1.0,0.0,2.0,1.0,Monaco
+Remo Freuler,Switzerland,MIDFIELDER,33,7.0,507.0,0.0,0.0,0.0,3.0,0.0,Bologna
+Tomaš Wiesner,Czechia,DEFENDER,27,7.0,507.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Geny Catamo,Mozambique,MIDFIELDER,24,8.0,506.0,1.0,1.0,0.0,0.0,0.0,Sporting CP
+Chris Führich,Germany,MIDFIELDER,27,7.0,506.0,1.0,0.0,0.0,0.0,0.0,Stuttgart
+Alexander Bah,Denmark,DEFENDER,27,7.0,500.0,1.0,2.0,0.0,2.0,0.0,Benfica
+Myles Lewis-Skelly,England,MIDFIELDER,18,9.0,498.0,0.0,2.0,0.0,1.0,0.0,Arsenal
+Mohamed Ali Camara,Rep of Guinea,DEFENDER,27,6.0,497.0,0.0,0.0,0.0,1.0,0.0,Young Boys
+Eduardo Camavinga,France,MIDFIELDER,22,9.0,496.0,0.0,0.0,0.0,4.0,1.0,Real Madrid
+Sandro Kulenović,Croatia,FORWARD,25,7.0,494.0,3.0,0.0,0.0,2.0,0.0,GNK Dinamo
+Zachary Athekame,Switzerland,DEFENDER,20,8.0,493.0,0.0,0.0,0.0,1.0,0.0,Young Boys
+Giovanni Fabbian,Italy,MIDFIELDER,22,7.0,493.0,0.0,0.0,0.0,2.0,0.0,Bologna
+Veljko Birmancević,Serbia,MIDFIELDER,27,6.0,493.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Silvère Ganvoula,Congo,FORWARD,28,8.0,490.0,1.0,0.0,0.0,1.0,0.0,Young Boys
+Caio Henrique,Brazil,DEFENDER,27,8.0,488.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Gonçalo Inacio,Portugal,DEFENDER,23,7.0,488.0,1.0,0.0,0.0,0.0,0.0,Sporting CP
+Dorgeles Nene,Mali,FORWARD,22,8.0,487.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Gabriel Gudmundsson,Sweden,DEFENDER,26,9.0,485.0,0.0,1.0,0.0,0.0,0.0,Lille
+Khephren Thuram,France,MIDFIELDER,24,9.0,485.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Diego Carlos,Brazil,DEFENDER,32,6.0,485.0,0.0,0.0,0.0,3.0,0.0,Aston Villa
+Ademola Lookman,Nigeria,FORWARD,27,7.0,483.0,5.0,2.0,0.0,0.0,0.0,Atalanta
+Christoph Baumgartner,Austria,MIDFIELDER,25,8.0,482.0,2.0,1.0,0.0,2.0,0.0,Leipzig
+Josip Mišić,Croatia,MIDFIELDER,30,6.0,481.0,0.0,1.0,0.0,1.0,0.0,GNK Dinamo
+Jaouen Hadjam,Algeria,DEFENDER,22,6.0,481.0,0.0,0.0,0.0,2.0,0.0,Young Boys
+Brahim Díaz,Morocco,MIDFIELDER,25,11.0,479.0,2.0,1.0,0.0,1.0,0.0,Real Madrid
+Kamil Piątkowski,Poland,DEFENDER,24,6.0,478.0,0.0,1.0,0.0,2.0,0.0,Salzburg
+Mohammed Salisu,Ghana,DEFENDER,26,6.0,477.0,1.0,0.0,0.0,1.0,0.0,Monaco
+Ronald Araújo,Uruguay,DEFENDER,26,7.0,476.0,1.0,0.0,0.0,0.0,0.0,Barcelona
+Benjamin Henrichs,Germany,DEFENDER,28,6.0,475.0,0.0,0.0,0.0,2.0,0.0,Leipzig
+Matteo Darmian,Italy,DEFENDER,35,8.0,474.0,0.0,0.0,0.0,0.0,0.0,Inter
+Conor Gallagher,England,MIDFIELDER,25,9.0,469.0,1.0,1.0,0.0,0.0,0.0,Atleti
+Raoul Bellanova,Italy,DEFENDER,24,8.0,468.0,1.0,0.0,0.0,1.0,0.0,Atalanta
+Kyogo Furuhashi,Japan,MIDFIELDER,30,7.0,467.0,1.0,0.0,0.0,0.0,0.0,Celtic
+Maxime Bernauer,France,DEFENDER,26,6.0,466.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Darwin Núñez,Uruguay,FORWARD,25,9.0,465.0,1.0,1.0,0.0,1.0,0.0,Liverpool
+Yukhym Konoplia,Ukraine,DEFENDER,25,7.0,465.0,0.0,2.0,0.0,1.0,0.0,Shakhtar
+Kang-in Lee,Korea Republic,MIDFIELDER,24,11.0,463.0,0.0,0.0,0.0,0.0,0.0,Paris
+Artem Bondarenko,Ukraine,MIDFIELDER,24,8.0,463.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Federico Dimarco,Italy,DEFENDER,27,8.0,461.0,0.0,2.0,0.0,1.0,0.0,Inter
+Kingsley Coman,France,FORWARD,28,11.0,460.0,1.0,0.0,0.0,2.0,0.0,Bayern München
+Kevin,Brazil,MIDFIELDER,22,7.0,460.0,2.0,0.0,0.0,1.0,0.0,Shakhtar
+Marko Tolić,Croatia,MIDFIELDER,28,7.0,459.0,1.0,1.0,0.0,4.0,1.0,S. Bratislava
+Osame Sahraoui,Morocco,MIDFIELDER,23,9.0,455.0,2.0,2.0,0.0,0.0,0.0,Lille
+Donny van de Beek,Netherlands,MIDFIELDER,28,7.0,453.0,1.0,0.0,0.0,1.0,0.0,Girona
+Bryan Gil,Spain,FORWARD,24,6.0,453.0,0.0,0.0,0.0,3.0,0.0,Girona
+Mama Baldé,Guinea-Bissau,FORWARD,29,9.0,452.0,0.0,2.0,0.0,0.0,0.0,Brest
+Javier Galan,Spain,DEFENDER,30,6.0,452.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Davide Frattesi,Italy,MIDFIELDER,25,12.0,451.0,1.0,0.0,0.0,1.0,0.0,Inter
+Rúben Dias,Portugal,DEFENDER,27,7.0,450.0,0.0,0.0,0.0,2.0,0.0,Man City
+Kevin Wimmer,Austria,DEFENDER,32,5.0,450.0,1.0,0.0,0.0,1.0,0.0,S. Bratislava
+Jusuf Gazibegović,Bosnia and Herzegovina,DEFENDER,25,5.0,450.0,0.0,0.0,0.0,3.0,0.0,Sturm Graz
+Ivan Nevistić,Croatia,GOALKEEPER,26,5.0,450.0,0.0,0.0,0.0,1.0,0.0,GNK Dinamo
+Iñaki Peña,Spain,GOALKEEPER,26,5.0,450.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Santiago Giménez,Mexico,FORWARD,24,7.0,449.0,6.0,1.0,1.0,1.0,0.0,Milan
+Niklas Geyrhofer,Austria,DEFENDER,25,6.0,449.0,0.0,0.0,0.0,1.0,0.0,Sturm Graz
+Oriol Romeu,Spain,MIDFIELDER,33,6.0,447.0,0.0,0.0,0.0,2.0,0.0,Girona
+Pedro Henrique,Brazil,DEFENDER,22,6.0,447.0,0.0,0.0,0.0,1.0,1.0,Shakhtar
+Lukasz Lakomy,Poland,MIDFIELDER,24,7.0,444.0,1.0,0.0,0.0,1.0,0.0,Young Boys
+Kostas Tsimikas,Greece,DEFENDER,28,6.0,444.0,0.0,1.0,0.0,1.0,0.0,Liverpool
+Lewin Blum,Switzerland,DEFENDER,23,7.0,441.0,0.0,0.0,0.0,1.0,0.0,Young Boys
+Kamory Doumbia,Mali,MIDFIELDER,22,10.0,440.0,0.0,0.0,0.0,0.0,0.0,Brest
+Matheus Reis,Brazil,DEFENDER,30,8.0,435.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Alejandro Francés,Spain,DEFENDER,22,6.0,435.0,0.0,0.0,0.0,2.0,0.0,Girona
+Pablo Barrios,Spain,MIDFIELDER,21,6.0,434.0,0.0,0.0,0.0,1.0,1.0,Atleti
+Nahuel Molina,Argentina,DEFENDER,27,8.0,427.0,1.0,0.0,0.0,0.0,0.0,Atleti
+Nicolò Savona,Italy,DEFENDER,22,7.0,427.0,0.0,0.0,0.0,1.0,0.0,Juventus
+Deniz Undav,Germany,FORWARD,28,6.0,425.0,1.0,1.0,0.0,1.0,0.0,Stuttgart
+Victor  Olatunji,Nigeria,FORWARD,25,8.0,424.0,2.0,1.0,0.0,2.0,0.0,Sparta Praha
+Mitchel Bakker,Netherlands,DEFENDER,24,8.0,422.0,1.0,0.0,0.0,1.0,0.0,Lille
+Josip Stanišić,Croatia,DEFENDER,25,6.0,421.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Andrija Maksimović,Serbia,MIDFIELDER,17,7.0,418.0,0.0,0.0,0.0,2.0,0.0,Crvena Zvezda
+Matteo Dams,Belgium,DEFENDER,21,6.0,417.0,0.0,0.0,0.0,3.0,0.0,PSV
+Arnau Martínez,Spain,DEFENDER,22,5.0,415.0,0.0,0.0,0.0,3.0,1.0,Girona
+Fermín López,Spain,FORWARD,21,10.0,414.0,1.0,5.0,0.0,1.0,0.0,Barcelona
+Yunus Musah,USA,MIDFIELDER,22,7.0,414.0,0.0,0.0,0.0,3.0,1.0,Milan
+Jamie Leweling,Germany,FORWARD,24,5.0,412.0,2.0,1.0,0.0,0.0,0.0,Stuttgart
+Samuel Lino,Brazil,MIDFIELDER,25,10.0,411.0,0.0,3.0,0.0,0.0,0.0,Atleti
+Thijs Dallinga,Netherlands,FORWARD,24,8.0,410.0,1.0,0.0,0.0,0.0,0.0,Bologna
+Riccardo Calafiori,Italy,DEFENDER,22,7.0,409.0,1.0,1.0,0.0,1.0,0.0,Arsenal
+Andreas Schjelderup,Norway,FORWARD,20,7.0,408.0,0.0,2.0,0.0,0.0,0.0,Benfica
+Eguinaldo,Brazil,FORWARD,20,7.0,408.0,0.0,1.0,0.0,0.0,0.0,Shakhtar
+Patrik Schick,Czechia,FORWARD,29,8.0,407.0,1.0,0.0,0.0,1.0,0.0,Leverkusen
+Dani Ceballos,Spain,MIDFIELDER,28,9.0,406.0,0.0,1.0,0.0,1.0,0.0,Real Madrid
+Nicolas Seiwald,Austria,MIDFIELDER,24,7.0,406.0,0.0,1.0,0.0,0.0,0.0,Leipzig
+Ermedin Demirović,Bosnia and Herzegovina,MIDFIELDER,27,8.0,404.0,1.0,0.0,0.0,2.0,0.0,Stuttgart
+Matteo Gabbia,Italy,DEFENDER,25,6.0,404.0,0.0,0.0,0.0,1.0,0.0,Milan
+Koke,Spain,MIDFIELDER,33,7.0,402.0,0.0,1.0,0.0,0.0,0.0,Atleti
+Aleksa Terzić,Serbia,DEFENDER,25,6.0,402.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Kevin De Bruyne,Belgium,MIDFIELDER,33,7.0,398.0,0.0,0.0,0.0,0.0,0.0,Man City
+alvaro Morata,Spain,FORWARD,32,7.0,396.0,1.0,1.0,0.0,3.0,0.0,Milan
+Adam Daghim,Denmark,FORWARD,19,7.0,393.0,1.0,0.0,0.0,1.0,0.0,Salzburg
+Jacob Ramsey,England,MIDFIELDER,23,10.0,392.0,1.0,2.0,0.0,0.0,0.0,Aston Villa
+Juanpe,Spain,DEFENDER,34,5.0,390.0,1.0,1.0,0.0,0.0,0.0,Girona
+Arnaut Danjuma,Netherlands,MIDFIELDER,28,7.0,388.0,1.0,2.0,0.0,1.0,0.0,Girona
+Rémy Cabella,France,MIDFIELDER,35,7.0,388.0,1.0,1.0,0.0,1.0,0.0,Lille
+Ayase Ueda,Japan,FORWARD,26,8.0,383.0,2.0,0.0,0.0,0.0,0.0,Feyenoord
+Seedy Jatta,Norway,FORWARD,22,8.0,383.0,0.0,1.0,0.0,1.0,0.0,Sturm Graz
+Nikola Moro,Croatia,MIDFIELDER,27,7.0,381.0,0.0,0.0,0.0,1.0,0.0,Bologna
+Janis Blaswich,Germany,GOALKEEPER,34,5.0,381.0,0.0,0.0,0.0,1.0,0.0,Salzburg
+Castello Lukeba,France,DEFENDER,22,5.0,378.0,0.0,0.0,0.0,3.0,0.0,Leipzig
+Pierre Lees-Melou,France,MIDFIELDER,31,5.0,374.0,1.0,0.0,0.0,1.0,0.0,Brest
+Ian Maatsen,Netherlands,DEFENDER,23,10.0,373.0,1.0,0.0,0.0,1.0,0.0,Aston Villa
+Hidemasa Morita,Japan,MIDFIELDER,29,7.0,372.0,0.0,0.0,0.0,1.0,0.0,Sporting CP
+Charalampos Lykogiannis,Greece,DEFENDER,31,5.0,371.0,0.0,1.0,0.0,3.0,0.0,Bologna
+Ognjen Mimović,Serbia,DEFENDER,20,5.0,371.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Thomas Müller,Germany,FORWARD,35,12.0,370.0,3.0,1.0,0.0,1.0,0.0,Bayern München
+Mathias Pereira Lage,France,FORWARD,28,9.0,370.0,1.0,0.0,0.0,1.0,0.0,Brest
+Liam Scales,Republic of Ireland,DEFENDER,26,6.0,370.0,1.0,0.0,0.0,0.0,0.0,Celtic
+Cody Gakpo,Netherlands,FORWARD,25,8.0,369.0,3.0,1.0,1.0,0.0,0.0,Liverpool
+Andreas Skov Olsen,Denmark,FORWARD,25,6.0,369.0,0.0,0.0,0.0,1.0,0.0,Club Brugge
+David López,Spain,DEFENDER,35,5.0,368.0,1.0,0.0,0.0,1.0,0.0,Girona
+Reinildo,Mozambique,DEFENDER,31,6.0,367.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Aleix García,Spain,MIDFIELDER,27,10.0,365.0,1.0,0.0,0.0,2.0,0.0,Leverkusen
+Mamady Diambou,Mali,MIDFIELDER,22,7.0,365.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Nicolas Gonzalez,Argentina,FORWARD,27,6.0,365.0,1.0,1.0,0.0,0.0,0.0,Juventus
+Jon Gorenc Stanković,Slovenia,MIDFIELDER,29,5.0,365.0,0.0,0.0,0.0,1.0,0.0,Sturm Graz
+John Stones,England,DEFENDER,30,6.0,364.0,1.0,1.0,0.0,1.0,0.0,Man City
+Marko Rog,Croatia,MIDFIELDER,29,7.0,362.0,0.0,0.0,0.0,2.0,0.0,GNK Dinamo
+Edon Zhegrova,Kosovo,MIDFIELDER,26,5.0,361.0,1.0,1.0,0.0,1.0,0.0,Lille
+Nordi Mukiele,France,DEFENDER,27,5.0,360.0,1.0,1.0,0.0,2.0,1.0,Leverkusen
+Jakub Moder,Poland,MIDFIELDER,26,4.0,360.0,1.0,0.0,1.0,1.0,0.0,Feyenoord
+Asger Sørensen,Denmark,DEFENDER,28,4.0,360.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Lukas Hradecký,Finland,GOALKEEPER,35,4.0,360.0,0.0,0.0,0.0,1.0,0.0,Leverkusen
+Marvin Keller,Switzerland,GOALKEEPER,22,4.0,360.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Caoimhin Kelleher,Republic of Ireland,GOALKEEPER,26,4.0,360.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+David von Ballmoos,Switzerland,GOALKEEPER,30,4.0,360.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Dani Olmo,Spain,FORWARD,26,8.0,357.0,1.0,1.0,0.0,0.0,0.0,Barcelona
+Jack Grealish,England,MIDFIELDER,29,6.0,354.0,1.0,0.0,0.0,1.0,0.0,Man City
+Bart Nieuwkoop,Netherlands,DEFENDER,29,5.0,353.0,0.0,1.0,0.0,0.0,0.0,Feyenoord
+Curtis Jones,England,MIDFIELDER,24,8.0,352.0,0.0,2.0,0.0,0.0,0.0,Liverpool
+Daniel Svensson,Sweden,DEFENDER,23,4.0,352.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Max Johnston,Scotland,DEFENDER,21,5.0,348.0,0.0,0.0,0.0,1.0,0.0,Sturm Graz
+Samuel Iling-Junior,England,FORWARD,21,8.0,347.0,1.0,0.0,0.0,1.0,0.0,Bologna
+Mirko Ivanić,Montenegro,MIDFIELDER,31,5.0,346.0,1.0,1.0,0.0,0.0,0.0,Crvena Zvezda
+Marko Pjaca,Croatia,FORWARD,30,6.0,344.0,1.0,3.0,0.0,1.0,0.0,GNK Dinamo
+Moussa Yeo,Mali,MIDFIELDER,20,6.0,343.0,0.0,0.0,0.0,1.0,0.0,Salzburg
+Yangel Herrera,Venezuela,MIDFIELDER,27,5.0,343.0,0.0,0.0,0.0,1.0,0.0,Girona
+Cheikh Niasse,France,MIDFIELDER,25,5.0,341.0,0.0,1.0,0.0,2.0,0.0,Young Boys
+Arthur Vermeeren,Belgium,MIDFIELDER,20,7.0,339.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Adam Idah,Republic of Ireland,FORWARD,24,10.0,338.0,3.0,1.0,0.0,0.0,0.0,Celtic
+Santiago Castro,Argentina,FORWARD,20,7.0,338.0,0.0,0.0,0.0,2.0,0.0,Bologna
+Malick Thiaw,Germany,DEFENDER,23,5.0,337.0,1.0,1.0,0.0,1.0,0.0,Milan
+Xavi Simons,Netherlands,MIDFIELDER,22,5.0,337.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Alexander Schlager,Austria,GOALKEEPER,29,4.0,336.0,0.0,1.0,0.0,0.0,1.0,Salzburg
+Kristjan Asllani,Albania,MIDFIELDER,23,7.0,335.0,0.0,0.0,0.0,3.0,0.0,Inter
+Mads Bidstrup,Denmark,MIDFIELDER,24,5.0,335.0,1.0,0.0,0.0,1.0,0.0,Salzburg
+Rick Karsdorp,Netherlands,DEFENDER,30,7.0,333.0,0.0,0.0,0.0,2.0,0.0,PSV
+Ivan Perišić,Croatia,MIDFIELDER,36,4.0,333.0,3.0,0.0,0.0,0.0,0.0,PSV
+Ferran Torres,Spain,FORWARD,25,10.0,332.0,3.0,1.0,0.0,1.0,0.0,Barcelona
+Ivan Martín,Spain,MIDFIELDER,26,7.0,332.0,0.0,0.0,0.0,2.0,0.0,Girona
+Danylo Ihnatenko,Ukraine,MIDFIELDER,28,5.0,331.0,0.0,0.0,0.0,2.0,0.0,S. Bratislava
+Nino Marcelli,Slovakia,FORWARD,19,8.0,330.0,1.0,1.0,0.0,0.0,0.0,S. Bratislava
+Nathan Tella,Nigeria,FORWARD,25,7.0,330.0,1.0,0.0,0.0,1.0,0.0,Leverkusen
+Viktor Tsygankov,Ukraine,MIDFIELDER,27,5.0,330.0,0.0,0.0,0.0,0.0,0.0,Girona
+Bobby Clark,England,MIDFIELDER,20,6.0,328.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Ben White,England,DEFENDER,27,8.0,327.0,0.0,0.0,0.0,1.0,0.0,Arsenal
+Gerard Martín,Spain,DEFENDER,23,7.0,327.0,0.0,1.0,0.0,0.0,0.0,Barcelona
+Albion Rrahmani,Kosovo,FORWARD,24,6.0,327.0,1.0,0.0,0.0,0.0,0.0,Sparta Praha
+Loris Benito,Switzerland,DEFENDER,33,5.0,327.0,0.0,0.0,0.0,2.0,0.0,Young Boys
+Conrad Harder,Denmark,FORWARD,20,9.0,326.0,1.0,0.0,0.0,0.0,0.0,Sporting CP
+Riccardo Orsolini,Italy,MIDFIELDER,28,6.0,325.0,0.0,0.0,0.0,1.0,0.0,Bologna
+Daley Blind,Netherlands,DEFENDER,35,4.0,324.0,0.0,0.0,0.0,0.0,0.0,Girona
+Jorginho,Italy,MIDFIELDER,33,6.0,323.0,1.0,0.0,1.0,0.0,0.0,Arsenal
+Aïssa Mandi,Algeria,DEFENDER,33,5.0,320.0,0.0,0.0,0.0,3.0,1.0,Lille
+Romain Del Castillo,France,FORWARD,29,7.0,319.0,0.0,0.0,0.0,1.0,0.0,Brest
+Karim Konaté,Ivory Coast,FORWARD,21,5.0,318.0,2.0,0.0,0.0,0.0,0.0,Salzburg
+Daniel Bragança,Portugal,MIDFIELDER,25,8.0,317.0,1.0,2.0,0.0,1.0,0.0,Sporting CP
+Emerson,Brazil,DEFENDER,26,7.0,317.0,0.0,0.0,0.0,0.0,0.0,Milan
+Juan Cuadrado,Colombia,MIDFIELDER,36,8.0,316.0,0.0,1.0,0.0,1.0,0.0,Atalanta
+Ibrahim Osman,Ghana,FORWARD,20,7.0,316.0,0.0,0.0,0.0,3.0,0.0,Feyenoord
+Davide Calabria,Italy,DEFENDER,28,5.0,314.0,0.0,0.0,0.0,3.0,0.0,Milan
+Tyrone Mings,England,DEFENDER,32,4.0,312.0,0.0,1.0,0.0,1.0,0.0,Aston Villa
+Kastriot Imeri,Switzerland,MIDFIELDER,24,5.0,309.0,1.0,0.0,0.0,1.0,0.0,Young Boys
+Marcus Rashford,England,FORWARD,27,4.0,309.0,0.0,2.0,0.0,0.0,0.0,Aston Villa
+Romain Faivre,France,MIDFIELDER,26,8.0,308.0,0.0,0.0,0.0,0.0,0.0,Brest
+Mateo Kovacić,Croatia,MIDFIELDER,31,6.0,308.0,1.0,0.0,0.0,1.0,0.0,Man City
+Ebrima Colley,Gambia,FORWARD,25,7.0,306.0,0.0,0.0,0.0,2.0,0.0,Young Boys
+Douglas Luiz,Brazil,MIDFIELDER,26,6.0,306.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Hakon Arnar Haraldsson,Iceland,MIDFIELDER,22,6.0,304.0,2.0,0.0,0.0,0.0,0.0,Lille
+Juan Miranda,Spain,DEFENDER,25,5.0,304.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Jonas Urbig,Germany,GOALKEEPER,21,4.0,302.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Lukaš Sadílek,Czechia,MIDFIELDER,28,6.0,301.0,0.0,1.0,0.0,0.0,0.0,Sparta Praha
+Lucas Gourna-Douath,France,MIDFIELDER,21,6.0,301.0,0.0,0.0,0.0,2.0,0.0,Salzburg
+Tammy Abraham,England,FORWARD,27,9.0,298.0,2.0,1.0,0.0,0.0,0.0,Milan
+Alan Virginius,France,FORWARD,22,7.0,298.0,0.0,1.0,0.0,0.0,0.0,Young Boys
+Julien Duranville,Belgium,MIDFIELDER,19,9.0,297.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Raheem Sterling,England,MIDFIELDER,30,6.0,297.0,0.0,2.0,0.0,3.0,0.0,Arsenal
+Matteo Ruggeri,Italy,DEFENDER,22,6.0,297.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Jaroslav Zelený,Czechia,DEFENDER,32,5.0,297.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Eric Dier,England,DEFENDER,31,6.0,296.0,1.0,0.0,0.0,1.0,0.0,Bayern München
+Christian Mawissa,France,DEFENDER,20,6.0,295.0,0.0,1.0,0.0,3.0,1.0,Monaco
+Jeremiah St. Juste,Netherlands,DEFENDER,28,6.0,291.0,0.0,0.0,0.0,1.0,0.0,Sporting CP
+Aleksandar Pavlović,Germany,MIDFIELDER,21,5.0,291.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Lazar Vujadin Samardžić,Serbia,MIDFIELDER,23,8.0,290.0,1.0,1.0,0.0,1.0,0.0,Atalanta
+Alexander Sørloth,Norway,FORWARD,29,8.0,290.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Marlon,Brazil,MIDFIELDER,21,7.0,289.0,1.0,0.0,0.0,2.0,0.0,Shakhtar
+Arijan Ademi,North Macedonia,MIDFIELDER,33,6.0,289.0,0.0,0.0,0.0,2.0,0.0,GNK Dinamo
+Lewis Ferguson,Scotland,MIDFIELDER,25,5.0,289.0,0.0,0.0,0.0,2.0,0.0,Bologna
+Soungoutou Magassa,France,MIDFIELDER,21,7.0,288.0,1.0,0.0,0.0,0.0,0.0,Monaco
+Nathan Aké,Netherlands,DEFENDER,30,4.0,287.0,0.0,0.0,0.0,0.0,0.0,Man City
+Gavi,Spain,MIDFIELDER,20,9.0,284.0,0.0,0.0,0.0,1.0,0.0,Barcelona
+Sharani Zuberu,Ghana,FORWARD,25,5.0,283.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Niklas Süle,Germany,DEFENDER,29,5.0,283.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Hendry Blank,Germany,DEFENDER,20,4.0,283.0,0.0,0.0,0.0,1.0,0.0,Salzburg
+Darian Males,Switzerland,MIDFIELDER,24,7.0,282.0,0.0,0.0,0.0,1.0,0.0,Young Boys
+Ruben Loftus-Cheek,England,MIDFIELDER,29,6.0,282.0,0.0,0.0,0.0,0.0,0.0,Milan
+Éder Militão,Brazil,DEFENDER,27,4.0,282.0,0.0,0.0,0.0,2.0,0.0,Real Madrid
+Kyle Walker,England,DEFENDER,34,4.0,282.0,0.0,0.0,0.0,0.0,0.0,Milan
+Cristhian Stuani,Uruguay,FORWARD,38,8.0,281.0,0.0,0.0,0.0,3.0,0.0,Girona
+Jordan Lotomba,Switzerland,DEFENDER,26,5.0,281.0,0.0,1.0,0.0,0.0,0.0,Feyenoord
+Gregory Wüthrich,Switzerland,DEFENDER,30,4.0,280.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Conor Bradley,Northern Ireland,DEFENDER,21,5.0,278.0,0.0,1.0,0.0,0.0,0.0,Liverpool
+Samuel Chukwueze,Nigeria,FORWARD,25,7.0,277.0,0.0,1.0,0.0,2.0,0.0,Milan
+Bojan Miovski,North Macedonia,FORWARD,25,4.0,276.0,0.0,0.0,0.0,0.0,0.0,Girona
+Giovanni Reyna,USA,MIDFIELDER,22,9.0,275.0,0.0,1.0,0.0,0.0,0.0,B. Dortmund
+Robert Andrich,Germany,MIDFIELDER,30,7.0,273.0,0.0,1.0,0.0,2.0,0.0,Leverkusen
+Amadou Onana,Belgium,MIDFIELDER,23,5.0,272.0,1.0,0.0,0.0,0.0,0.0,Aston Villa
+Axel Witsel,Belgium,MIDFIELDER,36,4.0,271.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Angelo Preciado,Ecuador,DEFENDER,27,3.0,270.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Ivan Guteša,Serbia,GOALKEEPER,23,3.0,270.0,0.0,0.0,0.0,1.0,0.0,Crvena Zvezda
+Tanguy Zoukrou,France,DEFENDER,21,3.0,270.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Omri Glazer,Israel,GOALKEEPER,29,3.0,270.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Samy Mmaee,Morocco,DEFENDER,28,3.0,270.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Danijel Zagorac,Croatia,GOALKEEPER,38,3.0,270.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Randal Kolo Muani,France,FORWARD,26,6.0,269.0,0.0,0.0,0.0,0.0,0.0,Juventus
+El Chadaille Bitshiabu,France,DEFENDER,19,4.0,268.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Luka Stojković,Croatia,MIDFIELDER,21,6.0,267.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Odilon Kossounou,Ivory Coast,DEFENDER,24,4.0,267.0,0.0,1.0,0.0,1.0,0.0,Atalanta
+Fran García,Spain,DEFENDER,25,9.0,266.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+David Raum,Germany,DEFENDER,27,4.0,266.0,0.0,1.0,0.0,2.0,0.0,Leipzig
+Lukaš Haraslín,Slovakia,MIDFIELDER,28,6.0,265.0,0.0,1.0,0.0,0.0,0.0,Sparta Praha
+Petar Sucić,Croatia,MIDFIELDER,21,3.0,265.0,2.0,0.0,0.0,0.0,0.0,GNK Dinamo
+angel Correa,Argentina,FORWARD,30,8.0,264.0,3.0,1.0,0.0,2.0,0.0,Atleti
+Julian Carranza,Argentina,FORWARD,24,7.0,264.0,1.0,0.0,0.0,1.0,0.0,Feyenoord
+Leandro Barreiro,Luxembourg,MIDFIELDER,25,9.0,262.0,0.0,0.0,0.0,2.0,0.0,Benfica
+Marco Asensio,Spain,FORWARD,29,8.0,262.0,3.0,0.0,1.0,0.0,0.0,Aston Villa
+Kevin Kampl,Slovenia,MIDFIELDER,34,5.0,262.0,0.0,1.0,0.0,0.0,0.0,Leipzig
+Armando Obispo,Netherlands,DEFENDER,26,6.0,261.0,0.0,0.0,0.0,0.0,0.0,PSV
+Matias Fernandez-Pardo,Belgium,FORWARD,20,7.0,260.0,0.0,1.0,0.0,0.0,0.0,Lille
+Gabriel Jesus,Brazil,FORWARD,28,5.0,260.0,0.0,1.0,0.0,1.0,0.0,Arsenal
+Julien Le Cardinal,France,DEFENDER,27,4.0,256.0,1.0,0.0,0.0,4.0,0.0,Brest
+Siemen Voet,Belgium,DEFENDER,25,3.0,256.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Peter Olayinka,Nigeria,FORWARD,29,3.0,251.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Juraj Kucka,Slovakia,MIDFIELDER,38,3.0,251.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Tommaso Pobega,Italy,MIDFIELDER,25,5.0,249.0,1.0,0.0,0.0,0.0,0.0,Bologna
+Yaser Asprilla,Colombia,MIDFIELDER,21,6.0,245.0,0.0,0.0,0.0,0.0,0.0,Girona
+Givairo Read,Netherlands,DEFENDER,18,3.0,244.0,0.0,0.0,0.0,0.0,1.0,Feyenoord
+Victor Boniface,Nigeria,FORWARD,24,4.0,243.0,1.0,0.0,0.0,0.0,0.0,Leverkusen
+Zeki Amdouni,Switzerland,FORWARD,24,11.0,240.0,1.0,0.0,0.0,2.0,0.0,Benfica
+Fabian Rieder,Switzerland,MIDFIELDER,23,8.0,240.0,1.0,3.0,0.0,1.0,0.0,Stuttgart
+Jhon Duran,Colombia,FORWARD,21,7.0,239.0,3.0,0.0,0.0,2.0,0.0,Aston Villa
+Kyriani Sabbe,Belgium,DEFENDER,20,6.0,239.0,1.0,0.0,0.0,0.0,1.0,Club Brugge
+Ivan Fresneda,Spain,DEFENDER,20,3.0,239.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Paulo Bernardo,Portugal,MIDFIELDER,23,8.0,238.0,0.0,0.0,0.0,1.0,0.0,Celtic
+Donyell Malen,Netherlands,FORWARD,26,5.0,238.0,2.0,1.0,0.0,1.0,0.0,B. Dortmund
+Diogo Jota,Portugal,FORWARD,28,4.0,237.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+João Simões,Portugal,MIDFIELDER,18,5.0,235.0,0.0,1.0,0.0,1.0,0.0,Sporting CP
+Yan Couto,Brazil,DEFENDER,22,8.0,232.0,0.0,0.0,0.0,2.0,0.0,B. Dortmund
+Cédric Itten,Switzerland,FORWARD,28,7.0,232.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Danilo,Brazil,DEFENDER,33,4.0,231.0,0.0,0.0,0.0,2.0,1.0,Juventus
+Robin Le Normand,Spain,DEFENDER,28,5.0,230.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Emil Holm,Sweden,DEFENDER,24,4.0,230.0,0.0,0.0,0.0,2.0,0.0,Bologna
+Jarell Quansah,England,DEFENDER,22,4.0,229.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Ismaily,Brazil,DEFENDER,35,4.0,228.0,0.0,1.0,0.0,0.0,0.0,Lille
+Samuel Mbangula,Belgium,FORWARD,21,7.0,225.0,1.0,0.0,0.0,0.0,0.0,Juventus
+Takuya Ogiwara,Japan,DEFENDER,25,3.0,225.0,1.0,0.0,0.0,1.0,0.0,GNK Dinamo
+Ethan Nwaneri,England,MIDFIELDER,18,7.0,223.0,2.0,0.0,0.0,0.0,0.0,Arsenal
+Tyrell Malacia,Netherlands,DEFENDER,25,3.0,222.0,0.0,0.0,0.0,1.0,0.0,PSV
+Danylo Sikan,Ukraine,FORWARD,24,5.0,221.0,1.0,0.0,0.0,0.0,0.0,Shakhtar
+Nicolò Casale,Italy,DEFENDER,27,4.0,218.0,0.0,0.0,0.0,1.0,0.0,Bologna
+Eduardo Quaresma,Portugal,DEFENDER,23,5.0,215.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Lukas Kacavenda,Croatia,MIDFIELDER,22,6.0,214.0,0.0,0.0,0.0,3.0,0.0,GNK Dinamo
+Amine Adli,Morocco,FORWARD,24,5.0,211.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Rafael Tolói,Italy,DEFENDER,34,4.0,211.0,0.0,0.0,0.0,1.0,1.0,Atalanta
+Kacper Urbański,Poland,MIDFIELDER,20,4.0,211.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Krépin Diatta,Senegal,MIDFIELDER,26,4.0,211.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Alex Valle,Spain,DEFENDER,21,5.0,210.0,0.0,1.0,0.0,0.0,0.0,Celtic
+Vinicius Tobias,Brazil,DEFENDER,21,3.0,210.0,0.0,0.0,0.0,1.0,0.0,Shakhtar
+Mattia Perin,Italy,GOALKEEPER,32,3.0,210.0,0.0,0.0,0.0,1.0,0.0,Juventus
+Lloyd Kelly,England,DEFENDER,26,2.0,210.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Nicolò Fagioli,Italy,MIDFIELDER,24,4.0,206.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Pedrinho,Brazil,MIDFIELDER,27,4.0,205.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Marko Arnautović,Austria,FORWARD,36,7.0,203.0,1.0,0.0,0.0,2.0,0.0,Inter
+Stefan Bajcetic,Spain,MIDFIELDER,20,6.0,202.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Róbert Mak,Slovakia,MIDFIELDER,34,7.0,201.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Pedro Gonçalves,Portugal,MIDFIELDER,26,3.0,200.0,0.0,2.0,0.0,1.0,0.0,Sporting CP
+Gonçalo Ramos,Portugal,FORWARD,23,10.0,198.0,3.0,1.0,0.0,0.0,0.0,Paris
+Oleksandr Zinchenko,Ukraine,DEFENDER,28,6.0,194.0,1.0,0.0,0.0,0.0,0.0,Arsenal
+Jurij Medveděv,Czechia,DEFENDER,28,4.0,193.0,0.0,1.0,0.0,0.0,0.0,S. Bratislava
+Bruno Petković,Croatia,FORWARD,30,3.0,193.0,2.0,0.0,0.0,1.0,0.0,GNK Dinamo
+Jérémy Doku,Belgium,MIDFIELDER,22,4.0,192.0,0.0,1.0,0.0,0.0,0.0,Man City
+Tomi Horvat,Slovenia,MIDFIELDER,26,7.0,191.0,0.0,0.0,0.0,1.0,0.0,Sturm Graz
+Dario Špikić,Croatia,FORWARD,26,5.0,185.0,1.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Arjan Malić,Bosnia and Herzegovina,MIDFIELDER,19,3.0,183.0,1.0,0.0,0.0,0.0,0.0,Sturm Graz
+Hugo Vetlesen,Norway,MIDFIELDER,25,7.0,182.0,0.0,1.0,0.0,2.0,0.0,Club Brugge
+Jeyland Mitchell,Costa Rica,DEFENDER,20,7.0,181.0,0.0,0.0,0.0,2.0,0.0,Feyenoord
+Dalcio Gomes,Portugal,MIDFIELDER,28,5.0,180.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+ Abdoulaye Ndiaye,Senegal,DEFENDER,23,2.0,180.0,0.0,0.0,0.0,1.0,0.0,Brest
+Maarten Vandevoordt,Belgium,GOALKEEPER,23,2.0,180.0,0.0,0.0,0.0,1.0,0.0,Leipzig
+João Félix,Portugal,FORWARD,25,2.0,180.0,0.0,0.0,0.0,1.0,0.0,Milan
+Daniil Khudiakov,Russia,GOALKEEPER,21,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Philipp Köhn,Switzerland,GOALKEEPER,27,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Matvei Safonov,Russia,GOALKEEPER,26,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Paris
+Andriy Lunin,Ukraine,GOALKEEPER,26,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Marko Ilić,Serbia,GOALKEEPER,27,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Rui Silva,Portugal,GOALKEEPER,31,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Stefan Ortega,Germany,GOALKEEPER,32,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Man City
+Dani Carvajal,Spain,DEFENDER,33,2.0,180.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Eric García,Spain,DEFENDER,24,8.0,179.0,1.0,0.0,0.0,0.0,1.0,Barcelona
+Vanja Drkušić,Slovenia,DEFENDER,25,2.0,179.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Luka Ivanušec,Croatia,FORWARD,26,4.0,177.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Gustaf Nilsson,Sweden,FORWARD,27,7.0,175.0,1.0,0.0,1.0,1.0,0.0,Club Brugge
+David Alaba,Austria,DEFENDER,32,5.0,175.0,0.0,0.0,0.0,1.0,0.0,Real Madrid
+João Palhinha,Portugal,MIDFIELDER,29,5.0,173.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Ricardo Esgaio,Portugal,DEFENDER,31,4.0,170.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Felício Milson,Angola,MIDFIELDER,25,5.0,169.0,2.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Harvey Elliott,England,MIDFIELDER,22,5.0,168.0,3.0,0.0,0.0,2.0,0.0,Liverpool
+Nuno Santos,Portugal,FORWARD,30,2.0,164.0,1.0,0.0,0.0,0.0,0.0,Sporting CP
+Ricardo Pepi,USA,FORWARD,22,7.0,163.0,2.0,1.0,0.0,0.0,0.0,PSV
+Irakli Azarov,Georgia,DEFENDER,23,2.0,162.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Angel Gomes,England,MIDFIELDER,24,4.0,161.0,1.0,0.0,0.0,2.0,1.0,Lille
+Ermal Krasniqi,Kosovo,MIDFIELDER,26,7.0,158.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Juan Cabal,Colombia,DEFENDER,24,2.0,158.0,0.0,0.0,0.0,1.0,0.0,Juventus
+Elias Cobbaut,Belgium,DEFENDER,27,2.0,158.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Nemanja Radonjić,Serbia,MIDFIELDER,29,4.0,157.0,3.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Anrie Chase,Japan,DEFENDER,21,5.0,156.0,0.0,0.0,0.0,1.0,0.0,Stuttgart
+Samuel Dahl,Sweden,DEFENDER,22,3.0,155.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Idjessi Metsoko,France,FORWARD,23,7.0,154.0,1.0,0.0,0.0,0.0,0.0,S. Bratislava
+Bruno Duarte,Brazil,FORWARD,29,7.0,153.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Yussuf Poulsen,Denmark,FORWARD,30,6.0,153.0,1.0,0.0,0.0,0.0,0.0,Leipzig
+Hyunjun,Korea Republic,MIDFIELDER,22,6.0,153.0,0.0,1.0,0.0,0.0,0.0,Celtic
+Daouda Guindo,Mali,DEFENDER,22,4.0,153.0,1.0,0.0,0.0,1.0,0.0,Salzburg
+Couhaib Driouech,Netherlands,FORWARD,23,5.0,152.0,1.0,0.0,0.0,0.0,0.0,PSV
+Abel Ruiz,Spain,FORWARD,25,3.0,147.0,0.0,0.0,0.0,0.0,0.0,Girona
+Adamo Nagalo,Burkina Faso,DEFENDER,22,5.0,145.0,0.0,0.0,0.0,0.0,0.0,PSV
+Yannik Keitel,Germany,MIDFIELDER,25,4.0,145.0,1.0,0.0,0.0,1.0,0.0,Stuttgart
+Vladimír Weiss,Slovakia,MIDFIELDER,35,3.0,145.0,0.0,0.0,0.0,1.0,0.0,S. Bratislava
+Renato Sanches,Portugal,MIDFIELDER,27,4.0,144.0,0.0,0.0,0.0,1.0,0.0,Benfica
+Lassina Traoré,Burkina Faso,DEFENDER,18,6.0,143.0,0.0,0.0,0.0,1.0,0.0,Shakhtar
+Rodrigo Riquelme,Spain,MIDFIELDER,25,5.0,143.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Arda Güler,Türkiye,MIDFIELDER,20,7.0,142.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Lucas Beraldo,Brazil,DEFENDER,21,4.0,142.0,0.0,0.0,0.0,0.0,0.0,Paris
+Guélor Kanga,Gabon,MIDFIELDER,34,5.0,141.0,1.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Casper Nielsen,Denmark,MIDFIELDER,31,6.0,140.0,1.0,0.0,0.0,1.0,0.0,Club Brugge
+Wataru Endo,Japan,MIDFIELDER,32,6.0,140.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Lamare Bogarde,Netherlands,DEFENDER,21,4.0,140.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+El Bilal Touré,Mali,FORWARD,23,4.0,139.0,1.0,0.0,0.0,0.0,0.0,Stuttgart
+Meschack Elia,DR Congo,FORWARD,27,5.0,138.0,0.0,0.0,0.0,2.0,0.0,Young Boys
+Mohamed Bayo,Rep of Guinea,FORWARD,26,3.0,138.0,0.0,0.0,0.0,0.0,0.0,Lille
+Endrick,Brazil,FORWARD,18,9.0,136.0,1.0,0.0,0.0,2.0,0.0,Real Madrid
+Lovro Zvonarek,Croatia,MIDFIELDER,19,6.0,136.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Alaa Ghram,Tunisia,DEFENDER,23,2.0,135.0,0.0,0.0,0.0,1.0,0.0,Shakhtar
+Pascal Stenzel,Germany,DEFENDER,29,5.0,131.0,0.0,0.0,0.0,1.0,0.0,Stuttgart
+Jonas Hofmann,Germany,MIDFIELDER,32,4.0,131.0,0.0,1.0,0.0,0.0,0.0,Leverkusen
+Amady Camara,Mali,FORWARD,19,4.0,131.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Jakub Pešek,Czechia,MIDFIELDER,31,2.0,130.0,0.0,0.0,0.0,1.0,0.0,Sparta Praha
+Jens Odgaard,Denmark,FORWARD,26,5.0,128.0,0.0,1.0,0.0,1.0,0.0,Bologna
+Mario Hermoso,Spain,DEFENDER,29,2.0,128.0,0.0,0.0,0.0,1.0,0.0,Leverkusen
+Nicolò Zaniolo,Italy,FORWARD,25,7.0,127.0,1.0,0.0,0.0,1.0,0.0,Atalanta
+Axel Disasi,France,DEFENDER,27,3.0,126.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Justin Bijlow,Netherlands,GOALKEEPER,27,2.0,126.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Marco Brescianini,Italy,MIDFIELDER,25,6.0,124.0,1.0,0.0,0.0,1.0,0.0,Atalanta
+Emiliano Buendía,Spain,MIDFIELDER,28,6.0,122.0,0.0,0.0,0.0,1.0,0.0,Leverkusen
+Taras Stepanenko,Ukraine,MIDFIELDER,35,6.0,121.0,0.0,0.0,0.0,2.0,0.0,Shakhtar
+Kieran Tierney,Scotland,DEFENDER,27,5.0,120.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Joe Gomez,England,DEFENDER,27,4.0,119.0,0.0,0.0,0.0,1.0,0.0,Liverpool
+Jaden Philogene,England,MIDFIELDER,23,3.0,119.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+MichaL Skóraś,Poland,FORWARD,25,5.0,118.0,0.0,0.0,0.0,2.0,0.0,Club Brugge
+Tiago Santos,Portugal,DEFENDER,22,2.0,116.0,0.0,0.0,0.0,0.0,0.0,Lille
+Jeffrey Schlupp,Germany,MIDFIELDER,32,2.0,115.0,0.0,0.0,0.0,0.0,0.0,Celtic
+César Azpilicueta,Spain,DEFENDER,35,2.0,112.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Jahmai Simpson-Pusey,England,DEFENDER,19,2.0,112.0,0.0,0.0,0.0,0.0,0.0,Man City
+George Ilenikhena,Nigeria,FORWARD,18,6.0,111.0,2.0,0.0,0.0,0.0,0.0,Monaco
+Ramiz Zerrouki,Algeria,MIDFIELDER,26,4.0,111.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Július Szöke,Slovakia,MIDFIELDER,29,3.0,110.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Jan-Niklas Beste,Germany,DEFENDER,26,5.0,109.0,0.0,2.0,0.0,0.0,0.0,Benfica
+Arthur,Brazil,DEFENDER,22,5.0,108.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+James McAtee,England,MIDFIELDER,22,5.0,107.0,1.0,0.0,0.0,1.0,0.0,Man City
+Federico Chiesa,Italy,MIDFIELDER,27,3.0,107.0,0.0,1.0,0.0,0.0,0.0,Liverpool
+Isaac Babadi,Netherlands,MIDFIELDER,20,4.0,104.0,0.0,1.0,0.0,2.0,0.0,PSV
+Martin Terrier,France,FORWARD,28,4.0,104.0,0.0,1.0,0.0,0.0,0.0,Leverkusen
+Sacha Boey,France,DEFENDER,24,3.0,103.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Noah Okafor,Switzerland,FORWARD,24,5.0,102.0,0.0,1.0,0.0,0.0,0.0,Milan
+Renato Veiga,Portugal,DEFENDER,21,2.0,102.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Ross Barkley,England,MIDFIELDER,31,6.0,99.0,1.0,0.0,0.0,1.0,0.0,Aston Villa
+Jhon Solís,Colombia,MIDFIELDER,20,5.0,99.0,0.0,0.0,0.0,0.0,0.0,Girona
+Issa Kaboré,Burkina Faso,DEFENDER,23,2.0,98.0,0.0,0.0,0.0,2.0,0.0,Benfica
+Erencan Yardımcı,Türkiye,FORWARD,23,5.0,97.0,0.0,0.0,0.0,1.0,0.0,Sturm Graz
+Omar Marmoush,Egypt,FORWARD,26,2.0,96.0,0.0,0.0,0.0,0.0,0.0,Man City
+Bremer,Brazil,DEFENDER,28,2.0,96.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Cristian Portu,Spain,MIDFIELDER,32,5.0,94.0,0.0,0.0,0.0,2.0,0.0,Girona
+Folarin Balogun,USA,FORWARD,23,3.0,93.0,0.0,0.0,0.0,1.0,0.0,Monaco
+Ameen Al-Dakhil,Belgium,DEFENDER,23,3.0,93.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Benjamin Rollheiser,Argentina,FORWARD,25,6.0,92.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Chris-Kévin Nadje,Ivory Coast,MIDFIELDER,23,3.0,91.0,0.0,0.0,0.0,0.0,1.0,Feyenoord
+Mathys Tel,France,FORWARD,20,3.0,91.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Petar Ratkov,Serbia,FORWARD,21,4.0,90.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Milan Rodić,Serbia,DEFENDER,34,3.0,90.0,0.0,0.0,0.0,1.0,0.0,Crvena Zvezda
+Nico Gonzalez,Spain,MIDFIELDER,23,1.0,90.0,1.0,0.0,0.0,1.0,0.0,Man City
+Antal Yaakobishvili,Hungary,DEFENDER,20,1.0,90.0,0.0,0.0,0.0,1.0,0.0,Girona
+Rui Patrício,Portugal,GOALKEEPER,37,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Luck Zogbé,Ivory Coast,DEFENDER,20,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Brest
+Grégoire Coudert,France,GOALKEEPER,26,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Brest
+Federico Ravaglia,Italy,GOALKEEPER,25,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Abdukodir Khusanov,Uzbekistan,DEFENDER,21,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Man City
+Tygo Land,Netherlands,MIDFIELDER,19,1.0,90.0,0.0,0.0,0.0,0.0,0.0,PSV
+Alexander Meyer,Germany,GOALKEEPER,34,1.0,90.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Adam Ševínský,Czechia,DEFENDER,20,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+James McConnell,England,MIDFIELDER,20,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Maurits Kjærgaard,Denmark,MIDFIELDER,21,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Mathias Ross,Denmark,DEFENDER,24,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Daniel Peretz,Israel,GOALKEEPER,24,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Josep Martínez,Spain,GOALKEEPER,26,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Inter
+Pau López,Spain,GOALKEEPER,30,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Girona
+Rodri,Spain,MIDFIELDER,28,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Man City
+Joël Drommel,Netherlands,GOALKEEPER,28,1.0,90.0,0.0,0.0,0.0,0.0,0.0,PSV
+Fabian Bredlow,Germany,GOALKEEPER,30,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Neto,Brazil,GOALKEEPER,35,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Marc-André ter Stegen,Germany,GOALKEEPER,33,1.0,90.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Lucas Hernandez,France,DEFENDER,29,3.0,87.0,0.0,0.0,0.0,0.0,0.0,Paris
+Markus Solbakken,Norway,MIDFIELDER,24,4.0,86.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Luka Ilić,Serbia,MIDFIELDER,25,5.0,85.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+André Silva,Portugal,FORWARD,29,4.0,85.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Jota,Portugal,FORWARD,26,2.0,85.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Newertton,Brazil,MIDFIELDER,19,4.0,84.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Jordan Amavi,France,DEFENDER,31,1.0,84.0,0.0,0.0,0.0,0.0,0.0,Brest
+Leandro Morgalla,Germany,DEFENDER,20,3.0,83.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Jayden Danns,England,FORWARD,19,1.0,83.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Calvin Stengs,Netherlands,MIDFIELDER,26,3.0,80.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Zepiqueno Redmond,Netherlands,FORWARD,18,2.0,80.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Selvi Clua,Spain,MIDFIELDER,20,1.0,79.0,0.0,0.0,0.0,0.0,0.0,Girona
+Ethan Mbappé,France,MIDFIELDER,18,2.0,78.0,0.0,0.0,0.0,0.0,0.0,Lille
+Jonas Martin,France,MIDFIELDER,35,5.0,77.0,0.0,0.0,0.0,0.0,0.0,Brest
+Carney Chukwuemeka,England,MIDFIELDER,21,3.0,77.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Arthur Cabral,Brazil,FORWARD,27,6.0,76.0,1.0,0.0,0.0,0.0,1.0,Benfica
+Ismaël Bennacer,Algeria,MIDFIELDER,27,1.0,75.0,0.0,1.0,0.0,0.0,0.0,Milan
+Gabriel Teixeira,Brazil,MIDFIELDER,24,2.0,73.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Branko Pavić,Croatia,MIDFIELDER,18,1.0,73.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Hugo Siquet,Belgium,DEFENDER,22,4.0,70.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Marcus Edwards,England,FORWARD,26,1.0,68.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Ibrahim Salah,Belgium,FORWARD,23,6.0,67.0,0.0,0.0,0.0,1.0,0.0,Brest
+Jordan Teze,Netherlands,DEFENDER,25,3.0,66.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Marco Palestra,Italy,DEFENDER,20,3.0,65.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Aymen Sliti,Netherlands,FORWARD,19,1.0,63.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Anthony Ralston,Scotland,DEFENDER,26,3.0,62.0,0.0,0.0,0.0,1.0,0.0,Celtic
+Arbër Hoxha,Albania,FORWARD,26,5.0,60.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+James Forrest,Scotland,MIDFIELDER,33,4.0,60.0,0.0,1.0,0.0,0.0,0.0,Celtic
+Filippo Terracciano,Italy,DEFENDER,22,2.0,60.0,0.0,0.0,0.0,0.0,0.0,Milan
+Andrea Belotti,Italy,FORWARD,31,4.0,55.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Leonidas Stergiou,Switzerland,DEFENDER,23,4.0,53.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Romeo Vermant,Belgium,FORWARD,21,5.0,52.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Al Musrati,Portugal,MIDFIELDER,29,1.0,52.0,0.0,0.0,0.0,2.0,1.0,Monaco
+Takumu Kawamura,Japan,MIDFIELDER,25,3.0,51.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Luke McCowan,Scotland,MIDFIELDER,27,3.0,48.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Kryštof Daněk,Czechia,MIDFIELDER,22,3.0,48.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Gjivai Zechiel,Netherlands,MIDFIELDER,20,2.0,46.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Ousmane Toure,France,DEFENDER,20,1.0,45.0,0.0,0.0,0.0,1.0,0.0,Lille
+Javi Serrano,Spain,MIDFIELDER,22,1.0,45.0,0.0,0.0,0.0,1.0,0.0,Atleti
+Martin Erlić,Croatia,DEFENDER,27,1.0,45.0,0.0,0.0,0.0,1.0,0.0,Bologna
+Sven Ulreich,Germany,GOALKEEPER,36,1.0,45.0,0.0,0.0,0.0,0.0,1.0,Bayern München
+John Mellberg,Sweden,DEFENDER,18,1.0,45.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Alexandre Brito,Portugal,MIDFIELDER,19,1.0,45.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Indrit Tuci,Albania,FORWARD,24,2.0,42.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Senny Mayulu,France,MIDFIELDER,18,3.0,41.0,1.0,0.0,0.0,0.0,0.0,Paris
+Lukas Klostermann,Germany,DEFENDER,28,3.0,41.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Ansu Fati,Spain,FORWARD,22,4.0,40.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Miguel Chaiwa,Zambia,MIDFIELDER,20,2.0,39.0,0.0,0.0,0.0,1.0,0.0,Young Boys
+Tyler Morton,England,MIDFIELDER,22,1.0,39.0,0.0,0.0,0.0,1.0,0.0,Liverpool
+Lorenzo Torriani,Italy,GOALKEEPER,20,1.0,39.0,0.0,0.0,0.0,0.0,0.0,Milan
+Jarzinho Malanga,Germany,FORWARD,18,3.0,37.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Lucas Michal,France,MIDFIELDER,19,3.0,37.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Francesco Camarda,Italy,FORWARD,17,4.0,36.0,0.0,1.0,0.0,1.0,0.0,Milan
+Sergi Dominguez,Spain,DEFENDER,20,2.0,35.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Afonso Moreira,Portugal,FORWARD,20,1.0,35.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Giorgio Scalvini,Italy,DEFENDER,21,1.0,35.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Pau Victor,Spain,FORWARD,23,5.0,34.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Luis Palma,Honduras,MIDFIELDER,25,2.0,34.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Eljif Elmas,North Macedonia,MIDFIELDER,25,3.0,33.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Hiroki Ito,Japan,DEFENDER,25,2.0,33.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Hirving Lozano,Mexico,FORWARD,29,2.0,33.0,0.0,0.0,0.0,0.0,0.0,PSV
+Stefan Hierländer,Austria,MIDFIELDER,34,6.0,32.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Alen Mustafić,Bosnia and Herzegovina,MIDFIELDER,25,4.0,32.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Zaid Romero,Argentina,DEFENDER,25,1.0,32.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+João Rego,Portugal,MIDFIELDER,19,4.0,30.0,0.0,0.0,0.0,1.0,0.0,Benfica
+Salih Özcan,Türkiye,MIDFIELDER,27,3.0,29.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Kosta Nedeljković,Serbia,DEFENDER,19,2.0,29.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Michel Aebischer,Switzerland,MIDFIELDER,28,1.0,29.0,0.0,0.0,0.0,1.0,0.0,Bologna
+Rhodri Smith,Switzerland,DEFENDER,18,1.0,28.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Davide Bartesaghi,Italy,DEFENDER,19,1.0,27.0,0.0,0.0,0.0,0.0,0.0,Milan
+Héctor Fort,Spain,DEFENDER,18,1.0,27.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Abdu Conté,Portugal,DEFENDER,27,1.0,27.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Trey Nyoni,England,FORWARD,17,1.0,26.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Eliot Matazo,Belgium,MIDFIELDER,23,3.0,25.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Aleksandar Katai,Serbia,MIDFIELDER,34,2.0,24.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Assan Ouedraogo,Germany,MIDFIELDER,18,2.0,23.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Chuba Akpom,Nigeria,FORWARD,29,1.0,23.0,0.0,0.0,0.0,0.0,0.0,Lille
+Martin Suchomel,Czechia,DEFENDER,22,3.0,22.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Vasilije Adžić,Montenegro,MIDFIELDER,18,1.0,22.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Kassoum Ouattara,France,DEFENDER,20,2.0,20.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Pablo Torre,Spain,MIDFIELDER,22,2.0,20.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Bartol Franjić,Croatia,DEFENDER,25,2.0,20.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+André Gomes,Portugal,MIDFIELDER,31,2.0,20.0,0.0,0.0,0.0,0.0,0.0,Lille
+Patric Pfeiffer,Germany,DEFENDER,25,1.0,20.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Fredrik Oppegård,Norway,DEFENDER,22,1.0,19.0,0.0,0.0,0.0,0.0,0.0,PSV
+Artem Stepanov,Ukraine,FORWARD,17,2.0,18.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Nathanaël Mbuku,DR Congo,FORWARD,23,2.0,18.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Presnel Kimpembe,France,DEFENDER,29,1.0,18.0,0.0,0.0,0.0,0.0,0.0,Paris
+Ben Godfrey,England,DEFENDER,27,2.0,17.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Bjorn Meijer,Netherlands,DEFENDER,22,2.0,16.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Juan Córdoba,Colombia,FORWARD,21,1.0,16.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Wessel Kuhn,Netherlands,DEFENDER,18,1.0,16.0,0.0,0.0,0.0,0.0,0.0,PSV
+Artur Gajdoš,Slovakia,MIDFIELDER,21,4.0,15.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Giacomo De Pieri,Italy,FORWARD,18,1.0,14.0,0.0,0.0,0.0,0.0,0.0,Inter
+Francis Onyeka,Germany,MIDFIELDER,18,1.0,14.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Cole Campbell,Iceland,MIDFIELDER,19,1.0,14.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Jeanuël Belocian,France,DEFENDER,20,2.0,12.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Min-su Kim,Korea Republic,FORWARD,19,1.0,12.0,0.0,0.0,0.0,0.0,0.0,Girona
+Jastin García,Spain,FORWARD,21,1.0,12.0,0.0,0.0,0.0,0.0,0.0,Girona
+Jacobo Ramón,Spain,DEFENDER,20,1.0,12.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Lukaš Pauschek,Slovakia,DEFENDER,32,1.0,12.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Daniel Cummings,Scotland,FORWARD,19,1.0,11.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Matúš Vojtko,Slovakia,DEFENDER,24,1.0,11.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+David Pavelka,Czechia,MIDFIELDER,33,1.0,11.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Esmir Bajraktarević,USA,FORWARD,20,1.0,10.0,0.0,0.0,0.0,0.0,0.0,PSV
+Nico O’Reilly,England,MIDFIELDER,20,1.0,10.0,0.0,0.0,0.0,0.0,0.0,Man City
+Facundo Gonzalez,Italy,DEFENDER,21,2.0,9.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Thomas Lemar,France,MIDFIELDER,29,1.0,9.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Yegor Prutsev,Serbia,MIDFIELDER,22,1.0,8.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Lucas Anjos,Portugal,FORWARD,20,1.0,8.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Dane Murray,Scotland,DEFENDER,21,1.0,8.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Thomas Berenbruch,Italy,MIDFIELDER,19,1.0,7.0,0.0,0.0,0.0,0.0,0.0,Inter
+Andreas  Christensen,Denmark,DEFENDER,29,1.0,7.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Benjamin Boakye,Germany,FORWARD,20,1.0,6.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Andres Cuenca,Spain,DEFENDER,17,1.0,6.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Matteo Cocchi,Italy,DEFENDER,18,1.0,6.0,0.0,0.0,0.0,0.0,0.0,Inter
+Viggo Gebel,Germany,MIDFIELDER,17,1.0,5.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Amara Nallo,England,DEFENDER,18,1.0,4.0,0.0,0.0,0.0,0.0,1.0,Liverpool
+Tommaso Corazza,Italy,DEFENDER,20,1.0,2.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Adam Aznou,Morocco,DEFENDER,18,1.0,2.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Arijon Ibrahimović,Germany,MIDFIELDER,19,1.0,2.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Nicola Zalewski,Poland,MIDFIELDER,23,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Inter
+Younes Lachaab,France,FORWARD,20,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Lille
+Leon Jakirović,Croatia,DEFENDER,17,1.0,1.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Konstantin Schopp,Austria,DEFENDER,19,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Nathan Butler-Oyedeji,England,FORWARD,22,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Leon Grgic,Austria,FORWARD,19,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Lukaš Penxa,Czechia,DEFENDER,20,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Jonas Rouhi,Sweden,DEFENDER,21,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Ayman Azhil,Germany,MIDFIELDER,24,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Dan-Axel Zagadou,France,DEFENDER,25,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Scott Carson,England,GOALKEEPER,39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City
+Morgan Costarelli,France,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lille
+Lucas García,Spain,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Oriol Comas,Spain,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Isaac Cossier,France,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lille
+Lennart Karl,Germany,MIDFIELDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Paris   Irie,France,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brest
+Shandre Campbell,South Africa,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Pau García,Spain,GOALKEEPER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Jordi Danso,Gambia,GOALKEEPER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Marc Aznar,Spain,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Juan Arango,Spain,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Christopher Olivier,Austria,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Federico Cassa,Italy,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Luca Raimund,Germany,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Noah Jauny,France,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brest
+Nestory Irankunda,Australia,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Ben Hawighorst,Germany,DEFENDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Gianluca Prestianni,Argentina,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Ibrahim Sulemana,Ghana,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Maxim Mateaš,Slovakia,MIDFIELDER,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Axel Camblan,France,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brest
+Elvis Isaac,Nigeria,FORWARD,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Pietro Comi,Italy,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Jacob Hödl,Austria,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Sam Proctor,England,GOALKEEPER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Tobias Van Den Elshout ,Netherlands,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Andrej Mikolaš,Slovakia,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Joe Gauci,Australia,GOALKEEPER,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Alberto Manzoni,Italy,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Diego Aguado,Spain,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Eliot Bujupi,Kosovo,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Mauro Couto,Portugal,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Lorin Jetzer,Switzerland,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Michael Bresser,Netherlands,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PSV
+Antonio Fernandez,Spain,MIDFIELDER,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Jimi Gower,England,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Maldini Kacurri,Albania,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Jack Porter,England,GOALKEEPER,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Max Hudson,Wales,GOALKEEPER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City
+Guillermo Fernandez,Spain,MIDFIELDER,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Ismail Ka,Netherlands,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Axel Tape,France,MIDFIELDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+Ibrahim Mbaye,France,FORWARD,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+Elias Benkara,Germany,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Daniel Yañez,Spain,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Lionel Voufack,Germany,DEFENDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Faik Sakar,Germany,MIDFIELDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Fernando Dickes,Germany,GOALKEEPER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Gabriele Re Cecconi,Italy,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Ayden Heaven,England,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Michal Rosiak,Poland,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Ismeal Kabia,Netherlands,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Joshua Robinson,England,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Jan Plug,Netherlands,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Gerónimo Spina,Argentina,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Christoph Wiener-Pucher,Austria,GOALKEEPER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Peter Kiedl,Austria,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Mattia Zanchetta,Italy,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Lilian Baret,France,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lille
+Sil Swinkels,Netherlands,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Tijn Smolenaars,Netherlands,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PSV
+Jesper Uneken,Netherlands,FORWARD,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PSV
+Kadan Young,England,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Samuel Nibombe,Belgium,DEFENDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Jonah Kusi-Asare,Sweden,FORWARD,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Joan Tincres,France,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Noa Mikić,Croatia,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Mislav Ćutuk,Croatia,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Oliver Sorg,Austria,DEFENDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Tiago Parente,Portugal,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Marko Zebić,Croatia,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Saimon Bouabre,France,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Salah-Eddine Oulad M'Hand,Netherlands,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Thijs Kraaijeveld,Netherlands,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Leon Klanac,Germany,GOALKEEPER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Eduardo Felicíssimo,Portugal,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Denilson Santos,Portugal,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Hugo Félix,Portugal,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Gonçalo Oliveira,Portugal,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Tomas Baković,Croatia,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Lucas Dominguez,Spain,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Lazar Jovanović,Serbia,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Tyler Meiser,Germany,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Oliwier Zych,Poland,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Kieran Morrison,Northern Ireland,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Djomar Giersthove,Netherlands,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Mannou Berger,Netherlands,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Edan Diop,France,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Mamadou Coulibaly,France,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Nicola Bagnolini,Italy,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Jacob Wright,England,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City
+Miguel Alves,Portugal,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Yoram Zague,France,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+Naoufel El Hannach,France,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+José Silva,Portugal,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Rafael Nel,Portugal,FORWARD,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Valentin Oelz,Austria,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Oliver Lukic,Croatia,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Leandro Santos,Portugal,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Jude Bonnar,Scotland,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Hugo De Llanos,Spain,FORWARD,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Chema Andrés,Spain,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Fran Gonzalez,Spain,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Kerim Alajbegović,Germany,FORWARD,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Robin Lisewski,Germany,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Nuha Jatta,Germany,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Leon Koß,Germany,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leipzig
+Max Schmitt,Germany,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Mike Aidoo,Italy,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Matteo Motta,Italy,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Mats Seiler,Switzerland,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Jashar Dema,Kosovo,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Matteo Bignetti,Austria,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Plamen Andreev,Bulgaria,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Tajon Buchanan,Canada,FORWARD,26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Tommaso Ravaglioli,Italy,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bologna
+Veljko Milosavljević,Serbia,MIDFIELDER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Vuk Draškić,Serbia,GOALKEEPER,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Pol Fortuny,Spain,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Daniele Quieto,Italy,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Enric García,Spain,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Ricard Artero,Spain,MIDFIELDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Girona
+Youssef,Spain,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Dennis Seimen,Germany,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Kjell Wätjen,Germany,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Almugera Kabar,Germany,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Tiago Freitas,Portugal,MIDFIELDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+João Fonseca,Portugal,DEFENDER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Joeri Heerkens,Netherlands,GOALKEEPER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Francisco Silva,Portugal,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Manuel Mendonça,Portugal,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Luis Gomes,Portugal,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+aron Yaakobishvili,Hungary,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Diego Kochen,USA,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Max Alleyne,England,DEFENDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City
+Jack Henry-Francis,England,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Tay Abed,Spain,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PSV
+Filippo Mane,Italy,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Noel Aseko,Germany,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Travis Patterson,England,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Trent Kone-Doherty,Republic of Ireland,FORWARD,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Dalibor Vecerka,Czechia,DEFENDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Martin Mišovic,Slovakia,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Nuno Félix,Portugal,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+André Gomes,Portugal,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Henrique Arreiol,Portugal,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Daniel Rus,Czechia,FORWARD,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Tommy Setford,England,GOALKEEPER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Ander Astralaga,Spain,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Barcelona
+Rayane Belid,Spain,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Gonzalo,Spain,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Louis Mouquet,France,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+Lapo Nava,Italy,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Milan
+Kevin Zeroli,Italy,MIDFIELDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Milan
+Salko Hamzic,Austria,GOALKEEPER,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Tommaso Del Lungo,Italy,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Jonathan Asp Jensen,Denmark,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Yann Lienard,France,GOALKEEPER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Monaco
+Vanja Vlahović,Serbia,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Diego Callai,Italy,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Kiril Fesiun,Ukraine,GOALKEEPER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Denys Tvardovskyi,Ukraine,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Johnny Kenny,Republic of Ireland,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Isaac Mabaya,England,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Alessandro Calligaris,Italy,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Anton Hlushchenko,Ukraine,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Marian Faryna,Ukraine,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Giovanni Daffara,Italy,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Sergio Mestre,Spain,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Jovan Šljivić,Serbia,MIDFIELDER,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Stefan Leković,Serbia,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crvena Zvezda
+Jorne Spileers,Belgium,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Tarek Buchmann,Germany,DEFENDER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Gabriel Vidović,Croatia,FORWARD,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bayern München
+Frans Krätzig,Germany,DEFENDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Silas Ostrzinski,Germany,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Zane Monlouis,England,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Niek Schiks,Netherlands,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PSV
+Adam Montgomery,Scotland,FORWARD,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Lorenzo Aguado,Spain,DEFENDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Diogo Prioste,Portugal,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Diogo Pinto,Portugal,GOALKEEPER,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Adrian Bajrami,Albania,DEFENDER,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Thomas Kastanaras,Greece,FORWARD,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Stuttgart
+Adam Hrdina,Slovakia,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Joshua Wilson-Esbrand,England,DEFENDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City
+Juan Musso,Argentina,GOALKEEPER,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Tristan van den Heuvel,Netherlands,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Harvey Davies,England,GOALKEEPER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Antonio Gomis,Spain,GOALKEEPER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Aitor Gismera,Spain,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Shiloh 'T Zand,Netherlands,MIDFIELDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feyenoord
+Bryan Okoh,Switzerland,DEFENDER,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Salzburg
+Ilias Kostis,Greece,DEFENDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atleti
+Jakub Surovcík,Slovakia,GOALKEEPER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+James Norris,England,MIDFIELDER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Yehor Nazaryna,Ukraine,MIDFIELDER,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Samuel Soares,Portugal,GOALKEEPER,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Benfica
+Vitězslav Jaroš,Czechia,GOALKEEPER,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Sergiño Dest,USA,DEFENDER,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PSV
+Vladan Kovacević,Serbia,GOALKEEPER,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sporting CP
+Maik Nawrocki,Poland,DEFENDER,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Marcel Lotka,Germany,GOALKEEPER,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B. Dortmund
+Arnau Tenas,Spain,GOALKEEPER,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+Viljami Sinisalo,Finland,GOALKEEPER,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Martin Trnovský,Slovakia,GOALKEEPER,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,S. Bratislava
+Stephen Welsh,Scotland,DEFENDER,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Emir Karic,Austria,MIDFIELDER,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sturm Graz
+Marco Sportiello,Italy,GOALKEEPER,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Milan
+Marian Shved,Ukraine,MIDFIELDER,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Shakhtar
+Dario Marzino,Switzerland,GOALKEEPER,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Young Boys
+Marc-Aurèle Caillard,France,GOALKEEPER,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lille
+Nordin Jackers,Belgium,GOALKEEPER,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Club Brugge
+Jesús Vallejo,Spain,DEFENDER,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Real Madrid
+Vojtěch Vorel,Czechia,GOALKEEPER,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sparta Praha
+Ivan Filipović,Croatia,GOALKEEPER,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GNK Dinamo
+Robin Olsen,Sweden,GOALKEEPER,35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa
+Milan Škriniar,Slovakia,DEFENDER,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Paris
+Niklas Lomb,Germany,GOALKEEPER,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leverkusen
+Raffaele Di Gennaro,Italy,GOALKEEPER,31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inter
+Francesco Rossi,Italy,GOALKEEPER,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atalanta
+Scott Bain,Scotland,GOALKEEPER,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celtic
+Carlo Pinsoglio,Italy,GOALKEEPER,35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Juventus
+Vito Mannone,Italy,GOALKEEPER,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lille
