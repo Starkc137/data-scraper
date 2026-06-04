@@ -82,12 +82,30 @@ def create_driver() -> webdriver.Chrome:
     options.add_argument("--window-size=1920,1080")
     options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
 
-    # webdriver_manager handles download automatically — no hardcoded path
-    service = ChromeService(ChromeDriverManager().install())
+    # Check for a manually placed chromedriver.exe next to this script
+    import glob, shutil, platform
+    script_dir = Path(__file__).parent
+    local_driver = script_dir / "chromedriver.exe"
+
+    if local_driver.exists():
+        log.info(f"Using local chromedriver: {local_driver}")
+        service = ChromeService(executable_path=str(local_driver))
+    else:
+        # Find the win64 exe directly in the wdm cache, skipping the win32 one
+        cache_root = Path.home() / ".wdm" / "drivers" / "chromedriver"
+        matches = glob.glob(
+            str(cache_root / "**" / "chromedriver-win64" / "chromedriver.exe"),
+            recursive=True
+        )
+        if matches:
+            log.info(f"Using win64 chromedriver: {matches[0]}")
+            service = ChromeService(executable_path=matches[0])
+        else:
+            service = ChromeService(ChromeDriverManager().install())
+
     driver = webdriver.Chrome(service=service, options=options)
     driver.set_page_load_timeout(30)
     return driver
-
 
 # ---------------------------------------------------------------------------
 # Response interception
@@ -210,13 +228,20 @@ def scrape_season(driver: webdriver.Chrome, season_label: str, season_year: int)
 
             # Read total from first response so pagination is not hardcoded
             if total_players is None:
-                total_players = raw.get("total") or raw.get("count")
-                if total_players:
-                    log.info(f"  Total for {season_label}: {total_players}")
+                if isinstance(raw, list):
+                    pass  # can't know total from a list response, will stop on empty batch
                 else:
-                    log.warning("  No 'total' field — will stop on empty batch")
-
-            batch = raw.get("results") or raw.get("data") or []
+                    total_players = raw.get("total") or raw.get("count")
+                    if total_players:
+                        log.info(f"  Total for {season_label}: {total_players}")
+                    else:
+                        log.warning("  No 'total' field — will stop on empty batch")
+                        
+            # UEFA API sometimes returns a plain list, sometimes {"results": [...]}
+            if isinstance(raw, list):
+                batch = raw
+            else:
+                batch = raw.get("results") or raw.get("data") or []
 
             if not batch:
                 log.info(f"  Empty batch at offset {offset} — season complete")
